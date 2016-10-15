@@ -24,3 +24,7 @@ theme = "hugo-theme-nix"
     name = "about"
     weight = 0
     url = "/about"
+  [[menu.header]]
+    name = "books"
+    weight = 0
+    url = "/books"
