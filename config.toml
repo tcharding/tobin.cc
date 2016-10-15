@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Personal Website of Tobin Harding"
+title = "Tobin Harding"
 languageCode = "en-us"
 theme = "hugo-theme-nix"
 
