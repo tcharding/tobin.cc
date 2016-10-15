@@ -1,0 +1,26 @@
+baseurl = "http://tobin.cc/blog"
+title = "Personal Website of Tobin Harding"
+languageCode = "en-us"
+theme = "hugo-theme-nix"
+
+[params]
+  Author = "Tobin Harding"
+  GithubID = "tcharding"
+  LinkedInID = "tobin-harding-9b1826124?trk=hp-identity-name"
+  FacebookID = "profile.php?id=100010716374185"
+  Name = "Tobin Harding"
+  HeaderUsername = "tobin"
+  HeaderHostname = "eros"
+  Email = "me@tobin.cc"
+  About = "Apprentice Linux Programmer. Fermento. Yogi."
+  ProfilePicture = "selfy_hat.jpg"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "/blog"
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "/about"
