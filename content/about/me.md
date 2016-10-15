@@ -1,6 +1,6 @@
 +++
 date = "2016-10-11T21:59:47+11:00"
-
+title = "About Me"
 +++
 
 Hello people, I am **Tobin Harding**. I code in the Linux environment. I like
