@@ -1,4 +1,4 @@
-baseurl = "http://tcharding.github.io"
+baseurl = "/"
 title = "Personal Website of Tobin Harding"
 languageCode = "en-us"
 theme = "hugo-theme-nix"
