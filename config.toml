@@ -27,4 +27,4 @@ theme = "hugo-theme-nix"
   [[menu.header]]
     name = "books"
     weight = 0
-    url = "/books"
+    url = "/reading-list"
