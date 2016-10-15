@@ -13,7 +13,7 @@ Edwin Abbott Abbott
 **The Alchemist**
 Paulo Coelho
 
-**Godel, Escher, Bach: an Eternal Golden Braid**
+**Gödel, Escher, Bach: an Eternal Golden Braid**
 Douglas R. Hofstadter
 
 **Peopleware** Productive Projects and Teams -
