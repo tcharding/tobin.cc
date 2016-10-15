@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://tobin.cc/blog/</loc>
+    <lastmod>2016-10-11T22:10:57+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobin.cc/blog/blog/initial-commit/</loc>
+    <lastmod>2016-10-11T22:10:57+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobin.cc/blog/about/me/</loc>
+    <lastmod>2016-10-11T21:59:47+11:00</lastmod>
+  </url>
+  
+</urlset>

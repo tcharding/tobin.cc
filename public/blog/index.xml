@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog-rsses on Personal Website of Tobin Harding</title>
+    <link>http://tobin.cc/blog/blog/index.xml</link>
+    <description>Recent content in Blog-rsses on Personal Website of Tobin Harding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 22:10:57 +1100</lastBuildDate>
+    <atom:link href="http://tobin.cc/blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>initial commit</title>
+      <link>http://tobin.cc/blog/blog/initial-commit/</link>
+      <pubDate>Tue, 11 Oct 2016 22:10:57 +1100</pubDate>
+      
+      <guid>http://tobin.cc/blog/blog/initial-commit/</guid>
+      <description>&lt;p&gt;According to &lt;strong&gt;Apprenticeship Patters&lt;/strong&gt; by Bavid H. Hoover and Adewale Oshineye
+in order to become a journeyman one must learn to explain their craft to
+others. This is one apprentices effort to learn these skills.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
