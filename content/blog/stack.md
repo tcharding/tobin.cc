@@ -8,6 +8,8 @@ empty. A full description of stacks can be found in
 [this](http://opendatastructures.org) book. A stack of any of Go's basic data
 types can be easily implemented in Go using using slices.
 
+<!--more-->
+
 ## stack of integers
 
 ```
