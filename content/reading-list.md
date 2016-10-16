@@ -7,6 +7,12 @@ Past, current, and future. List is in approximate reverse chronological order.
 
 # Future
 
+**Introduction to Graph Theory**
+Richard J. Trudeau
+
+**Linear Algebra and its Applications**
+Gilbert Strang
+
 **Flatland: A Romance of Many Dimensions**
 Edwin Abbott Abbott
 
@@ -28,31 +34,28 @@ A J T Davie
 **Mastering Regular Expressions**
 Jeffrey E.F. Friedl
 
-**Hackers Delight**
-Henry S. Warren, Jr.
-
-**Programming Pearls**
-Jon Bently
-
-**The Algorithm Design Manual**
-Steven S Skiena 
-
 # Current
 
 **The Go Programming Language**
 Alan A. A. Donovan, Brian W. Kernighan 
 
+**Discrete and Combinatorial Mathematics**
+Ralph P. Grimaldi
+
+**Open Data Structures**
+Pat Morin
+
 **Introduction to Algorithms**
 Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein 
 
-**Introduction to Graph Theory**
-Richard J. Trudeau
+**The Algorithm Design Manual**
+Steven S Skiena 
+ 
+**Hackers Delight**
+Henry S. Warren, Jr.
 
-**Linear Algebra and its Applications**
-Gilbert Strang
-
-**Discrete and Combinatorial Mathematics**
-Ralph P. Grimaldi
+**Programming Pearls**
+Jon Bently
 
 # Past
 
