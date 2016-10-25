@@ -3,12 +3,17 @@ date = "2016-10-17T08:28:17+11:00"
 title = "Stack Data Structure in Golang"
 +++
 
-A stack is a data structure defined by the operations push, pop, peek, and
-empty. A full description of stacks can be found in
-[this](http://opendatastructures.org) book. A stack of any of Go's basic data
-types can be easily implemented in Go using using slices.
+A stack is a container that supports retrieval by last-in, first-out (LIFO)
+order. The *get* and *put* operations for stacks are usually called *push* and
+*pop*, other operations may include *peek* and *isEmpty*. A full description of
+stacks can be found online [here](http://opendatastructures.org).
 
 <!--more-->
+
+*Stacks are simple to implement and very efficient. For this reason, stacks are
+probably the right container to use when retrieval order doesn't matter [Ski08]*
+
+A stack can be easily implemented in Go using slices.
 
 ## stack of integers
 
@@ -55,6 +60,7 @@ func (s *Stack) Peek() (int, bool) {
 ```
 
 We can then use our stack of integers like this
+
 ```
 func fn() {
     var stack Stack
@@ -63,14 +69,15 @@ func fn() {
     stack.Push(2)
     stack.Push(3)
 
-    x := stack.Peek()  // x == 3
-    x = stack.Pop()    // x == 3
-    x = stack.Peek()   // x == 2
+    x := stack.Peek()  // x = 3
+    x = stack.Pop()    // x = 3
+    x = stack.Peek()   // x = 2
 }
 ```
 
-It is trivial to replace integers with any other of Go's basic data types
-([string](https://github.com/tcharding/types/tree/master/stacks/string), float64, etc). 
+It is trivial to replace integers with any other type
+([string](https://github.com/tcharding/types/tree/master/stacks/string),
+struct, etc).
 
 ## stack of anything
 
@@ -100,7 +107,12 @@ strongly typed language.
 
 Full source code is available [here](https://github.com/tcharding/types/tree/master/stacks).
 
-Also Douglas Hall has done a nice implementation using linked lists instead of
+Also Douglas Hall has done a nice stack implementation using linked lists instead of
 slices. You can find his gist [here](https://gist.github.com/bemasher/1777766).
 
-
+---
+#### Bibliography:
+[Ski08] - **The Algorithm Design Manual**, Steven S. Skiena  
+[Cor09] - **Introduction to Algorithms**, Thomas H. Cormen, Charles E. Leiserson,
+Ronald L. Rivest, Clifford Stein  
+[Mor] - **Open Data Structures**, Pat Morin, Edition 0.1  

@@ -14,7 +14,10 @@ theme = "hugo-theme-nix"
   Email = "me@tobin.cc"
   About = "Apprentice Linux Programmer. Fermento. Yogi."
   ProfilePicture = "selfy_hat.jpg"
-
+  pygmentsuseclasses = false
+  pygmentsStyle  = "monokai"
+  pygmentscodefences = true
+  
 [menu]
   [[menu.header]]
     name = "blog"
