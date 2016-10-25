@@ -33,6 +33,12 @@ A J T Davie
 
 **Mastering Regular Expressions**
 Jeffrey E.F. Friedl
+ 
+**Hackers Delight**
+Henry S. Warren, Jr.
+
+**Programming Pearls**
+Jon Bently
 
 # Current
 
@@ -50,12 +56,6 @@ Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein
 
 **The Algorithm Design Manual**
 Steven S Skiena 
- 
-**Hackers Delight**
-Henry S. Warren, Jr.
-
-**Programming Pearls**
-Jon Bently
 
 # Past
 
