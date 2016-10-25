@@ -11,7 +11,7 @@ queues can be found online [here](http://opendatastructures.org).
 Queue's minimise the maximum time spent waiting, however the average wait time
 will be the same whether a LIFO or a FIFO is used.
 
-<!-- more -->
+<!--more-->
 
 A queue can be easily implemented in Go using slices.
 
