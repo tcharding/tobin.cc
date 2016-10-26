@@ -58,7 +58,8 @@ func (b *Bag) FindAll(x int) (int, bool) {
 	return b.Find(x) // not useful for this implementation
 }
 ```
-A bag of integers can then be use as such
+We can then use our bag of integers like this
+
 ```
 func fn() {
     bag := make(Bag)
