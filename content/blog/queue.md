@@ -58,6 +58,6 @@ func fn() {
 ---
 #### Bibliography:
 [Ski08] - **The Algorithm Design Manual**, Steven S. Skiena  
-[Cor09] - **Introduction to Algorithms**, Thomas H. Cormen, Charles E. Leiserson,
+[CLRS09] - **Introduction to Algorithms**, Thomas H.Cormen, Charles E. Leiserson,
 Ronald L. Rivest, Clifford Stein  
 [Mor] - **Open Data Structures**, Pat Morin, Edition 0.1  

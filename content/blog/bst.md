@@ -103,7 +103,7 @@ definition for the relation between the keys of a BST
 
 *The keys in a binary search tree are always sorted. Let x be a node in a binary
 search tree. If y is a node in the left subtree of x, then y.key < x.key. If y
-is a node in the right subtree of x, then y.key >= x.key* [Cor09]
+is a node in the right subtree of x, then y.key >= x.key* [CLRS09]
 
 the node with the maximum key value will be found in the right-most leaf of the
 tree
@@ -136,7 +136,7 @@ omitted but full source code can be found
 ## Insertion and Deletion
 
 This section follows the algorithmic design outlined in *Introduction to
-Algorithms* [Cor09]
+Algorithms* [CLRS09]
 
 Insertion into a BST is simply a matter of locating the correct position and
 inserting a new node. First we will create a new node with the requisite key
@@ -371,7 +371,7 @@ please feel free to email me or submit a pull request.
 ---
 #### Bibliography:
 [Ski08] - **The Algorithm Design Manual**, Steven S. Skiena  
-[Cor09] - **Introduction to Algorithms**, Thomas H. Cormen, Charles E. Leiserson,
+[CLRS09] - **Introduction to Algorithms**, Thomas H.Cormen, Charles E. Leiserson,
 Ronald L. Rivest, Clifford Stein  
 [Mor] - **Open Data Structures**, Pat Morin, Edition 0.1  
 
