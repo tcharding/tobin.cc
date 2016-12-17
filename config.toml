@@ -31,3 +31,7 @@ theme = "hugo-theme-nix"
     name = "books"
     weight = 0
     url = "/reading-list"
+  [[menu.header]]
+    name = "resume"
+    weight = 0
+    url = "/resume"

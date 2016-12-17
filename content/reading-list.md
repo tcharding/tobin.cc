@@ -42,9 +42,6 @@ Jon Bently
 
 # Current
 
-**The Go Programming Language**
-Alan A. A. Donovan, Brian W. Kernighan 
-
 **Discrete and Combinatorial Mathematics**
 Ralph P. Grimaldi
 
@@ -58,6 +55,9 @@ Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein
 Steven S Skiena 
 
 # Past
+
+**The Go Programming Language**
+Alan A. A. Donovan, Brian W. Kernighan 
 
 **Apprenticeship Patterns** Guidance for the Aspiring Software Craftsman -
 David H. Hoover and Adewale Oshineye *(a,-)*
