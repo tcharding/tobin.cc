@@ -52,7 +52,7 @@ Toolchain: gcc and the GNU Assembler.
 ## Education
 
 ### Self Learning
-For the last 18 months I have worked assiduously on becoming a comptent
+For the last 18 months I have worked assiduously on becoming a competent
 programmer. I have [logged](https://github.com/tcharding/work-logs) hours and topics worked. Topic outline for the last 12
 months can be seen above. During this time I have studied numerous texts on
 topics related to software development. See [~/books](http://tobin.cc/reading-list)
