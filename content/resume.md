@@ -11,6 +11,8 @@ title = "Resume"
 
 ## Code Written in the last 12 months
 
+All code is open source and hosted on [Github](https://github.com/tcharding/self_learning).
+
 ### Golang
 * 140+ algorithmic problems on HackerRank.com.
 * Data structures. Implementations and blog posts. 
@@ -46,8 +48,6 @@ Toolchain: gcc and the GNU Assembler.
 * All exercises from UNIX Network Programming. 
 * All exercises from Advanced Programming in the UNIX Environment. 
 * Majority of exercises from UNIX Systems Programming.
-
-All code is open source and hosted on [Github](https://github.com/tcharding/self_learning).
 
 ## Education
 
