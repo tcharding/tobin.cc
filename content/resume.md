@@ -14,12 +14,12 @@ title = "Resume"
 All code is open source and hosted on [Github](https://github.com/tcharding/self_learning).
 
 ### Golang
-* 140+ algorithmic problems on HackerRank.com.
-* Data structures. Implementations and blog posts. 
+* 140+ algorithmic problems on [HackerRank](https://www.hackerrank.com/tcharding).
+* Data structures. Implementations and [blog](http://tobin.cc/blog/) posts.
 * Exercises from The Go Programming Language.
 
 ### Haskell
-* 50+ problems from [Ninety-Nine Haskell](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) Problems. 
+* 50+ problems from [Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems).
 * Approximately 20 problems from [Project Euler](https://projecteuler.net/). 
 
 ### Scheme
