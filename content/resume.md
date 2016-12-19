@@ -4,10 +4,54 @@ title = "Resume"
 
 +++
 
-* **12 years** experience using **Linux**. Contributed to various open source projects. **18 months** full time programming (**self study**). 
-* **97th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
+* **12 years** experience using **Linux**. **18 months** full time programming (**self study**). 
 * **Undergraduate** and **postgraduate** degrees  in computer science.
+* **97th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
 * **Founder** of Central Coast Linux Users Group (LUG).
+
+## Open Source Experience
+I have made open source contributions to the following projects;
+
+* gonum/[graph](https://github.com/gonum/graph/graphs/contributors) (Go)
+* gyuho/[gograph](https://github.com/gyuho/goraph/graphs/contributors) (Go)
+* [OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server/graphs/contributors) (Python)
+* Guile Scheme (Scheme, C)
+* [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/log/?qt=grep&q=Tobin+C+Harding)
+
+## Education
+
+### Self Learning
+For the last 18 months I have worked assiduously on becoming a competent
+programmer. I have [logged](https://github.com/tcharding/work-logs) hours and
+topics worked. For more detail see below ‘code written in last 12
+months’. During this time I have studied numerous texts on topics related to
+software development. See [~/books](http://tobin.cc/reading-list) for full
+listing, highlights include;
+
+* **Structure and Interpretation of Computer Programs** Harold Abelson, Gerald Jay Sussman, Julie Sussman
+* **The Art of Computer Programming** (volumes 1 and 2) Donald E. Knuth
+* **Applied Cryptography** Bruce Schneier
+* **Clean Code, A Handbook of Agile Software Craftsmanship** Robert C. Martin
+* **UNIX Network Programming** W. Richard Stevens, Bill Fenner, Andrew M. Rudoff
+* **Advanced Programming in the UNIX Environment** W. Richard Stevens, Stephen A. Rag
+
+### Graduate Diploma in Computer Science (Pass with High Distinction)
+
+University of New England, Australia (completed 2014).
+
+* Parallel and Distributed Computing.
+* Computer Architecture and Assembler.
+* C++ Programming.
+* Programming Languages for Artificial Intelligence.
+* Web and Internet Programming.
+* Information Technology Project (patient management application written in Objective C).
+* Graduate Diploma in Computer Science Project (UNIX shell written in C).
+
+### Bachelor of Science
+University of Sydney, Australia (completed 2008).
+
+* Awarded Bachelor of Science majoring in computer science. 
+* Completed double major, software development and computer networking.
 
 ## Code Written in the last 12 months
 
@@ -48,38 +92,3 @@ Toolchain: gcc and the GNU Assembler.
 * All exercises from UNIX Network Programming. 
 * All exercises from Advanced Programming in the UNIX Environment. 
 * Majority of exercises from UNIX Systems Programming.
-
-## Education
-
-### Self Learning
-For the last 18 months I have worked assiduously on becoming a competent
-programmer. I have [logged](https://github.com/tcharding/work-logs) hours and topics worked. Topic outline for the last 12
-months can be seen above. During this time I have studied numerous texts on
-topics related to software development. See [~/books](http://tobin.cc/reading-list)
-for full listing, highlights include;
-
-* **Structure and Interpretation of Computer Programs** Harold Abelson, Gerald Jay Sussman, Julie Sussman
-* **The Art of Computer Programming** (volumes 1 and 2) Donald E. Knuth
-* **Applied Cryptography** Bruce Schneier
-* **Clean Code, A Handbook of Agile Software Craftsmanship** Robert C. Martin
-* **UNIX Network Programming** W. Richard Stevens, Bill Fenner, Andrew M. Rudoff
-* **Advanced Programming in the UNIX Environment** W. Richard Stevens, Stephen A. Rag
-
-### Graduate Diploma in Computer Science
-**Pass with High Distinction**
-
-University of New England, Australia (completed 2014).
-
-* Parallel and Distributed Computing.
-* Computer Architecture and Assembler.
-* C++ Programming.
-* Programming Languages for Artificial Intelligence.
-* Web and Internet Programming.
-* Information Technology Project (patient management application written in Objective C).
-* Graduate Diploma in Computer Science Project (UNIX shell written in C).
-
-### Bachelor of Science
-University of Sydney, Australia (completed 2008).
-
-* Awarded Bachelor of Science majoring in computer science. 
-* Completed double major, software development and computer networking.
