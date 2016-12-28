@@ -13,9 +13,6 @@ Richard J. Trudeau
 **Linear Algebra and its Applications**
 Gilbert Strang
 
-**Flatland: A Romance of Many Dimensions**
-Edwin Abbott Abbott
-
 **The Alchemist**
 Paulo Coelho
 
@@ -31,16 +28,22 @@ Frederick P. Brooks, Jr.
 **An Introduction to Functional Programming Systems Using Haskell**
 A J T Davie
 
+**Purely Functional Data Structures**
+Chris Okasaki
+
 **Mastering Regular Expressions**
 Jeffrey E.F. Friedl
  
 **Hackers Delight**
 Henry S. Warren, Jr.
 
-**Programming Pearls**
-Jon Bently
+**Artificial Intelligence** A modern Approach -
+Stuart Russell and Peter Norvig
 
 # Current
+
+**Programming Pearls**
+Jon Bently
 
 **Discrete and Combinatorial Mathematics**
 Ralph P. Grimaldi
@@ -48,16 +51,21 @@ Ralph P. Grimaldi
 **Open Data Structures**
 Pat Morin
 
+# Past
+---
+**Key: (x,x)** *(text read, exercises completed)*  
+a = **all**, s = **some**, m = **most**, - = **not applicable** (i.e no exercises in text).
+
+---
+
 **Introduction to Algorithms**
-Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein 
+Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein *(m,-)*
 
 **The Algorithm Design Manual**
-Steven S Skiena 
-
-# Past
+Steven S Skiena *(a,-)*
 
 **The Go Programming Language**
-Alan A. A. Donovan, Brian W. Kernighan 
+Alan A. A. Donovan, Brian W. Kernighan *(a,a)*
 
 **Apprenticeship Patterns** Guidance for the Aspiring Software Craftsman -
 David H. Hoover and Adewale Oshineye *(a,-)*
@@ -175,18 +183,6 @@ Abraham Silberschatz, Peter Baer Galvin, Greg Cagne *(a,-)*
 
 **The C Programming Language**
 Brian W. Kernighan, Dennis Ritchie *(a,a)*
-
-*Past reading entries are suffixed with code representing level of
-completion. First character representing amount of
-text read. Second character representing amount of exercises
-completed.*
-
-**Key:** *(x,x)*
-
-s = some  
-m = most  
-a = all  
-- = not applicable (i.e no exercises in text)
 
 
 
