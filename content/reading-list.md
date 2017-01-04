@@ -40,7 +40,22 @@ Henry S. Warren, Jr.
 **Artificial Intelligence** A modern Approach -
 Stuart Russell and Peter Norvig
 
+**Coders At Work** Reflections on the craft of programming -
+Peter Seibel
+
+**Algorithms in C** Part 5 -
+Robert Sedgewick
+
+**The Clean Coder** A Code of Conduct for Professional Programmers -
+Robert C. Martin
+
 # Current
+
+**Algorithms in C** Parts 1-4 -
+Robert Sedgewick
+
+**Code Complete**
+Steve McConnell
 
 **Programming Pearls**
 Jon Bently
@@ -54,7 +69,7 @@ Pat Morin
 # Past
 ---
 **Key: (x,x)** *(text read, exercises completed)*  
-a = **all**, s = **some**, m = **most**, - = **not applicable** (i.e no exercises in text).
+a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
 
 ---
 
@@ -62,7 +77,7 @@ a = **all**, s = **some**, m = **most**, - = **not applicable** (i.e no exercise
 Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein *(m,-)*
 
 **The Algorithm Design Manual**
-Steven S Skiena *(a,-)*
+Steven S Skiena *(a,n)*
 
 **The Go Programming Language**
 Alan A. A. Donovan, Brian W. Kernighan *(a,a)*
