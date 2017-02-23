@@ -43,28 +43,33 @@ Stuart Russell and Peter Norvig
 **Coders At Work** Reflections on the craft of programming -
 Peter Seibel
 
-**Algorithms in C** Part 5 -
+**Algorithms in C** Parts 1 - 5
 Robert Sedgewick
 
 **The Clean Coder** A Code of Conduct for Professional Programmers -
 Robert C. Martin
 
-# Current
-
-**Algorithms in C** Parts 1-4 -
-Robert Sedgewick
-
 **Code Complete**
 Steve McConnell
-
-**Programming Pearls**
-Jon Bently
 
 **Discrete and Combinatorial Mathematics**
 Ralph P. Grimaldi
 
-**Open Data Structures**
-Pat Morin
+**Programming Pearls**
+Jon Bently
+
+**Linux Kernel Networking** Implementation and Theory - Rami Rosen
+
+**The Design of the Unix Operating System**
+Maurice J. Bach
+
+**The Art of Linux Kernel Design** Illustrating the Operating System
+  Design Principle and Implementation - Lixiang Yang
+
+# Current
+
+**Modern Operating Systems**
+Andrew S. Tanenbaum
 
 # Past
 ---
@@ -72,6 +77,18 @@ Pat Morin
 a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
 
 ---
+
+**Essential Linux Device Drivers**
+Sreekrishnan Venkateswaran *(a,-)*
+
+**Linux Device Drivers**
+Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman *(a,a)*
+
+**Linux Kernel Develop**
+Robert Love *(a,-)*
+
+**Open Data Structures**
+Pat Morin *(m,-)*
 
 **Introduction to Algorithms**
 Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein *(m,-)*
@@ -102,15 +119,6 @@ Daniel P. Friedman, Matthias Felleisen *(a,a)*
 
 **ARM Assembly Language**
 William Hohl *(a,m)*
-
-**Essential Linux Device Drivers**
-Sreekrishnan Venkateswaran *(a,-)*
-
-**Linux Device Drivers**
-Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman *(a,a)*
-
-**Linux Kernel Develop**
-Robert Love *(a,-)*
 
 **The Linux Programming Interface**
 Michael Kerrisk *(m,m)*

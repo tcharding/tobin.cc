@@ -5,22 +5,25 @@ title = "Resume"
 +++
 
 * **12 years** experience using **Linux**. **18 months** full time programming (**self study**). 
-* **Undergraduate** and **postgraduate** degrees  in computer science.
+* **Undergraduate** and **postgraduate** degrees in computer science.
 * **97th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
 * **Founder** of Central Coast Linux Users Group (LUG).
 
 ## Open Source Experience
 I have made open source contributions to the following projects;
 
+* Linux Kernel ([mainline patches](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc))
 * gonum/[graph](https://github.com/gonum/graph/graphs/contributors) (Go)
 * gyuho/[gograph](https://github.com/gyuho/goraph/graphs/contributors) (Go)
 * [OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server/graphs/contributors) (Python)
 * Guile Scheme (Scheme, C)
-* [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/log/?qt=grep&q=Tobin+C+Harding)
+
 
 ## Education
 
 ### Self Learning
+I am currently focused on operating system development. 
+
 For the last 18 months I have worked assiduously on becoming a competent
 programmer. I have [logged](https://github.com/tcharding/work-logs) hours and
 topics worked. For more detail see below ‘code written in last 12
