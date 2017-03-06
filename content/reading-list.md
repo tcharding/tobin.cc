@@ -46,9 +46,6 @@ Peter Seibel
 **Algorithms in C** Parts 1 - 5
 Robert Sedgewick
 
-**The Clean Coder** A Code of Conduct for Professional Programmers -
-Robert C. Martin
-
 **Code Complete**
 Steve McConnell
 
@@ -60,16 +57,16 @@ Jon Bently
 
 **Linux Kernel Networking** Implementation and Theory - Rami Rosen
 
+# Current
+
 **The Design of the Unix Operating System**
 Maurice J. Bach
 
 **The Art of Linux Kernel Design** Illustrating the Operating System
   Design Principle and Implementation - Lixiang Yang
 
-# Current
-
-**Modern Operating Systems**
-Andrew S. Tanenbaum
+**The Clean Coder** A Code of Conduct for Professional Programmers -
+Robert C. Martin
 
 # Past
 ---
@@ -77,6 +74,9 @@ Andrew S. Tanenbaum
 a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
 
 ---
+
+**Modern Operating Systems**
+Andrew S. Tanenbaum *(m,)*
 
 **Essential Linux Device Drivers**
 Sreekrishnan Venkateswaran *(a,-)*
