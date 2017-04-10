@@ -7,12 +7,6 @@ Past, current, and future. List is in approximate reverse chronological order.
 
 # Future
 
-**Introduction to Graph Theory**
-Richard J. Trudeau
-
-**Linear Algebra and its Applications**
-Gilbert Strang
-
 **The Alchemist**
 Paulo Coelho
 
@@ -46,27 +40,27 @@ Peter Seibel
 **Algorithms in C** Parts 1 - 5
 Robert Sedgewick
 
-**Code Complete**
-Steve McConnell
-
-**Discrete and Combinatorial Mathematics**
-Ralph P. Grimaldi
-
 **Programming Pearls**
 Jon Bently
 
-**Linux Kernel Networking** Implementation and Theory - Rami Rosen
-
-# Current
-
-**The Design of the Unix Operating System**
-Maurice J. Bach
+**Linux Kernel Networking** Implementation and Theory -
+Rami Rosen
 
 **The Art of Linux Kernel Design** Illustrating the Operating System
   Design Principle and Implementation - Lixiang Yang
 
-**The Clean Coder** A Code of Conduct for Professional Programmers -
-Robert C. Martin
+**Pro Git** Scott Chacon
+
+# Current
+
+**Linux Device Drivers 3rd Edition (second reading)**
+Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
+
+**Refactoring** Improving the Design of Existing Code -
+Martin Fowler
+
+**Code Complete**
+Steve McConnell
 
 # Past
 ---
@@ -75,13 +69,19 @@ a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.
 
 ---
 
+**The Design of the Unix Operating System**
+Maurice J. Bach *(a,-)*
+
+**The Clean Coder** A Code of Conduct for Professional Programmers -
+Robert C. Martin *(a,-)*
+
 **Modern Operating Systems**
 Andrew S. Tanenbaum *(m,)*
 
 **Essential Linux Device Drivers**
 Sreekrishnan Venkateswaran *(a,-)*
 
-**Linux Device Drivers**
+**Linux Device Drivers 3rd Edition**
 Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman *(a,a)*
 
 **Linux Kernel Develop**
