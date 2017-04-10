@@ -4,27 +4,28 @@ title = "Resume"
 
 +++
 
-* **12 years** experience using **Linux**. **18 months** full time programming (**self study**). 
+* **12 years** experience using **Linux**. **2 years** full time programming (**self study**). 
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **97th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
-* **Founder** of Central Coast Linux Users Group (LUG).
+* **70 patches** merged into the **Linux kernel**.
+* **98th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
+* **Founder** of The Central Coast Linux Users Group (LUG).
 
 ## Open Source Experience
 I have made open source contributions to the following projects;
 
-* Linux Kernel ([mainline patches](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc))
-* gonum/[graph](https://github.com/gonum/graph/graphs/contributors) (Go)
-* gyuho/[gograph](https://github.com/gyuho/goraph/graphs/contributors) (Go)
-* [OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server/graphs/contributors) (Python)
-* Guile Scheme (Scheme, C)
-
+* Linux Kernel [mainline](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc) drivers/staging, arch/PowerPC ( C ).
+* gonum/[graph](https://github.com/gonum/graph/graphs/contributors) (Go).
+* gyuho/[gograph](https://github.com/gyuho/goraph/graphs/contributors) (Go).
+* [OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server/graphs/contributors) (Python).
+* Guile Scheme (Scheme, C).
+* Binutils, GNU Assembler (Documentation).
 
 ## Education
 
 ### Self Learning
 I am currently focused on operating system development. 
 
-For the last 18 months I have worked assiduously on becoming a competent
+For the last 24 months I have worked assiduously on becoming a competent
 programmer. I have [logged](https://github.com/tcharding/work-logs) hours and
 topics worked. For more detail see below ‘code written in last 12
 months’. During this time I have studied numerous texts on topics related to
@@ -60,6 +61,11 @@ University of Sydney, Australia (completed 2008).
 
 All code is open source and hosted on [Github](https://github.com/tcharding/self_learning).
 
+### Linux Kernel
+* 70 patches into the Linux Kernel. Mainly focusing on device drivers
+  (drivers/staging). Some work also on PowerPC code (arch/PowerPC).
+* Currently working on challenges from [The Eudyptula Challenge](http://eudyptula-challenge.org/). 
+
 ### Golang
 * 140+ algorithmic problems on [HackerRank](https://www.hackerrank.com/tcharding).
 * Data structures. Implementations and [blog](http://tobin.cc/blog/) posts.
@@ -80,18 +86,7 @@ Toolchain: gcc and the GNU Assembler.
 
 * Exercises from ARM Assembly Language.
 
-### Linux Kernel
-* Updated [source code](https://github.com/tcharding/ldd3-examples-4.6) from [ldd3](https://lwn.net/Kernel/LDD3/) to kernel version 4.6.0.
-* A few trivial Kernel patches into [GregKH staging](http://git.kernel.org/cgit/linux/kernel/git/gregkh/staging.git/log/?qt=grep&q=Tobin+C+Harding).
-* Initial challenges from [The Eudyptula Challenge](http://eudyptula-challenge.org/). 
-
 ### Python
 * Contributed to the [Open Bazaar](https://github.com/OpenBazaar/OpenBazaar-Server) project. 
 * Completed first four sets from the [Matasano Cryptography Challenges](https://cryptopals.com/). 
 * 30+ problems from [Project Euler](https://projecteuler.net/).
-
-### C
-* All exercise upto chapter 47 of The Linux Programming Interface 
-* All exercises from UNIX Network Programming. 
-* All exercises from Advanced Programming in the UNIX Environment. 
-* Majority of exercises from UNIX Systems Programming.
