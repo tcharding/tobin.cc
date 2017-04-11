@@ -6,7 +6,7 @@ title = "Resume"
 
 * **12 years** experience using **Linux**. **2 years** full time programming (**self study**). 
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **70 patches** merged into the **Linux kernel**.
+* **70+ patches** merged into the **Linux kernel**.
 * **98th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
 * **Founder** of The Central Coast Linux Users Group (LUG).
 
@@ -62,8 +62,9 @@ University of Sydney, Australia (completed 2008).
 All code is open source and hosted on [Github](https://github.com/tcharding/self_learning).
 
 ### Linux Kernel
-* 70 patches into the Linux Kernel. Mainly focusing on device drivers
-  (drivers/staging). Some work also on PowerPC code (arch/PowerPC).
+* 70+ patches into the Linux Kernel.
+* Main focus on device drivers (drivers/staging).
+* Some work also on PowerPC (arch/PowerPC).
 * Currently working on challenges from [The Eudyptula Challenge](http://eudyptula-challenge.org/). 
 
 ### Golang
