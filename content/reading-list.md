@@ -53,12 +53,6 @@ Rami Rosen
 
 # Current
 
-**Linux Device Drivers 3rd Edition (second reading)**
-Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
-
-**Refactoring** Improving the Design of Existing Code -
-Martin Fowler
-
 **Code Complete**
 Steve McConnell
 
@@ -68,6 +62,12 @@ Steve McConnell
 a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
 
 ---
+
+**Linux Device Drivers 3rd Edition (read twice)**
+Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
+
+**Refactoring** Improving the Design of Existing Code -
+Martin Fowler
 
 **The Design of the Unix Operating System**
 Maurice J. Bach *(a,-)*
