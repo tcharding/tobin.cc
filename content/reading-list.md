@@ -62,6 +62,9 @@ a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.
 
 ---
 
+**802.11 Wireless Networks** The Definitive Guide -
+Matthew S. Gast *(m,-)*
+
 **Linux Device Drivers 3rd Edition**
 Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman *(a,-)* (read twice)
 
@@ -79,9 +82,6 @@ Andrew S. Tanenbaum *(m,)*
 
 **Essential Linux Device Drivers**
 Sreekrishnan Venkateswaran *(a,-)*
-
-**Linux Device Drivers 3rd Edition**
-Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman *(a,a)*
 
 **Linux Kernel Develop**
 Robert Love *(a,-)*
