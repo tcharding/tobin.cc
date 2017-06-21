@@ -40,20 +40,16 @@ Peter Seibel
 **Algorithms in C** Parts 1 - 5
 Robert Sedgewick
 
-**Programming Pearls**
-Jon Bently
-
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen
 
 **The Art of Linux Kernel Design** Illustrating the Operating System
   Design Principle and Implementation - Lixiang Yang
 
-**Pro Git** Scott Chacon
-
 # Current
 
-**Code Complete** Steve McConnell
+**Programming Pearls**
+Jon Bentley
 
 # Past
 ---
@@ -61,6 +57,8 @@ Rami Rosen
 a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
 
 ---
+
+**Code Complete** Steve McConnell *(a,-)*
 
 **802.11 Wireless Networks** The Definitive Guide -
 Matthew S. Gast *(m,-)*
@@ -88,6 +86,8 @@ Robert Love *(a,-)*
 
 **Open Data Structures**
 Pat Morin *(m,-)*
+
+**Pro Git** Scott Chacon *(m,-)*
 
 **Introduction to Algorithms**
 Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein *(m,-)*
