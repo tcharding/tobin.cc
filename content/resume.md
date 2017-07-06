@@ -51,7 +51,7 @@ interoperability between operating systems.
 ### Apprenticeship
 
 24 month software development apprenticeship. Worked assiduously on becoming a
-competent, professional programmer. Maintained a minimum 40 working week
+competent, professional programmer. Maintained a minimum 40 hour working week
 (typically 50+).
 [Logged](https://github.com/tcharding/work-logs) hours and topics
 worked. Topics include; computer architecture,
@@ -143,6 +143,6 @@ Toolchain: gcc and the GNU Assembler.
 
 ## Buzz Words
 
-ARM, x86_64, MIPS, PowerPC
-Linux, Ubuntu, Emacs, Zsh, Mutt, Git
+ARM, x86_64, MIPS, PowerPC,
+Linux, Ubuntu, Emacs, Zsh, Mutt, Git,
 Haskell, Scheme Lisp, Assembler, C, Go, Python, Perl, Java, C++,  Objective-C, Prolog, Bash
