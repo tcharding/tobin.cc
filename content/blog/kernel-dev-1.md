@@ -67,9 +67,10 @@ within your kernel development tree (see task 3 below).
                 
 ### 2. Subscribe to mailing lists
 
-- Kernel newbies: kernelnewbies@kernelnewbies.org
+- [Kernel newbies](https://lists.kernelnewbies.org/mailman/listinfo/kernelnewbies) mailing list.
 
-- Device drivers: driverdev-devel@linuxdriverproject.org
+- [Device driver](http://driverdev.linuxdriverproject.org/mailman/listinfo/driverdev-devel)
+  mailing list.
 
 **Pro Tip:** Do not bother subscribing to LKML at this stage.
 
