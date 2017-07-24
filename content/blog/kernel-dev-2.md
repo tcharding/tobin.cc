@@ -90,7 +90,7 @@ Hackers tend to like working on *interesting*
 problems. It is of little use outlining a method for learning kernel
 development if it is not interesting. Now arises then the question of
 motivation. We must at this stage select some code to work on. Within
-`drivers/stagng` there are a number of drivers. They are at various
+`drivers/staging` there are a number of drivers. They are at various
 stages of development. Some are on their way into the kernel, some may
 be on their way out of the kernel and some may be stuck because of
 some design issue i.e implementing an old API. Also the drivers may
@@ -141,7 +141,7 @@ You may like to set up a shell alias for checkpatch
 You need the `-f` option to have checkpatch work on source files, as
 apposed to unified-diff formatted patches.
 
-At this stage we have a driver we are going to work on (herein
+At this stage we have a driver we are going to work on (henceforth
 referred to as *your driver*). We have the output from
 checkpatch providing ideas for code to work on. Let us now start with
 the actual steps intended for this blog post.
@@ -152,7 +152,7 @@ Using the above alias run checkpatch on the source (or header) files within your
 
     checkpatch --strict --terse --show-types *.c
 
-Herein, for brevity, we will refer to all checkpatch outputs i.e ERROR, WARNING,
+Henceforth, for brevity, we will refer to all checkpatch outputs i.e ERROR, WARNING,
 CHECK as 'warnings'.
 
 As you did when creating your first patch, have a look at the
@@ -196,9 +196,9 @@ better success if you follow it.
 
 ### 2. Check your Fixes
 
-At this stage you have three commits in your git history. You created
-a new branch off of staging-next right? Now we are going to try to
-eliminate mistakes.
+At this stage you have three commits in your git history and you have
+been working on a branch created off of staging-next. Now we are going
+to try to eliminate mistakes.
 
 #### On Making Mistakes in Public
 
@@ -217,7 +217,7 @@ open source software is such a beautiful pursuit.
 
 **1. Read the diff for each commit**.
 
-Patches submitted to kernel mailing lists are typically are reviewed
+Patches submitted to kernel mailing lists are typically reviewed
 by reading the diff. At first this may seem difficult since there are
 some peculiarities to the diff format but if you check each of your
 patches first by reading the diff you will get good at catching
@@ -334,11 +334,85 @@ suggestions, thank them for their input and follow their
 suggestions. Do not submit a second version (see below) without seeing
 to each and every suggestion made by a reviewer.
 
-#### On Arguing with Reviewers
-
 ### 4. Submitting Patch Set Version 2
 
-### Rinse, Lather, Repeat
+If changes to your patch set are necessary you will need to submit a
+second (and third ...) version. You need to deal with all comments to
+your patch on the mailing list. Greg receives *a lot* of patches each
+day, and response or contention typically pushes a patch to the bottom
+of the list of patches he manages, to get back to the top of the list
+(and be merged) you need to incorporate any reviewer suggestions into
+a new version. At this early stage you are most likely going to
+need to incorporate the suggestion as apposed to arguing your point.
+
+If you get more than one suggestion you can implement all the changes
+at once. You do so by rebasing your patch set so as to finish up, as before,
+with just three patches. Once you are happy with the new series you must
+re-submit it. There are two things to note when doing so. The new
+subject for the patch set will be the same as the old except it will
+include `[PATCH v2]` in the subject. You can generate this using
+
+    git format-patch -3 --subject-prefix='PATCH v2'
+
+Your cover letter will be the same as for the previous version except
+you need to add a section at the bottom that outlines the change
+history. Let's assume you are up to version 3, your cover letter may
+include something like
+
+    v2 -> v3
+    - Fix whitespace issue as suggested by review. 
+
+    v1 -> v2
+    - Use u8 instead of uint8.
+
+If you are working on a single patch instead of a series, this change
+history is still required. The place to put it is below the `----`
+within the patch. Things below the dashed line are not included in the
+git index when the patch is applied.
+
+#### On Arguing with Reviewers
+
+TL;DR; Don't argue with reviewers.
+
+Linux kernel maintainers and patch reviewers are in short supply, do
+not waste there valuable time arguing with them. At this early stage
+it is highly unlikely that you know more about kernel development than
+the developer reviewing your patch. Sure, reviewers make mistakes,
+sometimes email is misinterpreted. In this case by all means re-state
+your position in a different, more thoroughly articulated, manner. If
+the reviewer repeats the original sentiment then please accept that
+you are probably wrong. There may be something that you have not yet
+learned that justifies the reviewers position. A reviewer is not
+required to spell out *exactly* why something is wrong, they are
+reviewers not tutors. If you ask for pointers as to where you can
+learn more about why you are wrong you will do much better than
+attempting to prove you are correct. And if finally you still do not
+agree with the reviewers position just drop the patch and move onto
+something else, you are fixing staging bugs here not re-writing the
+scheduler. You are supposed to be learning, forge another patch set on
+something different and come back to the contentious issue when you
+have learned some more.
+
+The more respectful of other developers time and efforts you are the
+more help you will receive. It is not magic, just simple human
+interactions.
+
+### Lather, Rinse, Repeat
+
+Above I have attempted to outline a method for learning the Linux
+kernel development process while controlling some of the complexity
+that is inherent in learning a new complex software system. The issues
+touched on are issues I came up against while learning. You may well come
+up against different issues, each of us is different with different
+skill sets and personalities. One thing is for sure, you will not
+learn the process without repeating it many times. So go ahead, enjoy
+yourself, fix all the checkpatch warnings in that driver. If there are
+not enough there, pick another driver and learn it also. Once you are
+comfortable with the process and getting more comfortable with kernel
+code you may like to try fixing `Sparse` warnings. Pass the `C=2`
+option to your build command to run Sparse.
+
+    make -j9 C=2 M=drivers/staging/FOO
 
 ### Final Tips
 
@@ -352,6 +426,5 @@ Here are a couple of final tips you may find useful
   reviewers more time and allows you to include more changes in each
   version i.e less churn and less demand on maintainers/reviewers.
 
-### Look After Your Maintainer
 
 Good luck

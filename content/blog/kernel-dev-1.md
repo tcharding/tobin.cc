@@ -138,7 +138,7 @@ step is to attempt to eliminate mistakes and then create the patch.
     Your commit should build without warnings. During development you may
     like to build the driver (without linking it) using
 
-    `make M=drivers/staging/foo`
+    `make M=drivers/staging/FOO`
 
     You may also like to build and link the kernel with extra warnings enabled.
 
