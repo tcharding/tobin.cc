@@ -13,20 +13,11 @@ Paulo Coelho
 **Gödel, Escher, Bach: an Eternal Golden Braid**
 Douglas R. Hofstadter
 
-**Peopleware** Productive Projects and Teams -
-Tom DeMarco and Timothy Lister
-
-**The Mythical Man-Month**
-Frederick P. Brooks, Jr.
-
 **An Introduction to Functional Programming Systems Using Haskell**
 A J T Davie
 
 **Purely Functional Data Structures**
 Chris Okasaki
-
-**Mastering Regular Expressions**
-Jeffrey E.F. Friedl
  
 **Hackers Delight**
 Henry S. Warren, Jr.
@@ -48,15 +39,21 @@ Rami Rosen
 
 # Current
 
-**Programming Pearls**
-Jon Bentley
+**Peopleware** Productive Projects and Teams -
+Tom DeMarco and Timothy Lister
+
+**Mastering Regular Expressions**
+Jeffrey E.F. Friedl
+
+(second reading) **The Go Programming Language**
+Alan A. A. Donovan, Brian W. Kernighan *(a,a)*
 
 # Past
----
-**Key: (x,x)** *(text read, exercises completed)*  
-a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
 
----
+**Programming Pearls** Jon Bentley *(a,n)*
+
+**The Mythical Man-Month**
+Frederick P. Brooks, Jr. *(a,-)*
 
 **Code Complete** Steve McConnell *(a,-)*
 
@@ -95,9 +92,6 @@ Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein *(m,-)*
 **The Algorithm Design Manual**
 Steven S Skiena *(a,n)*
 
-**The Go Programming Language**
-Alan A. A. Donovan, Brian W. Kernighan *(a,a)*
-
 **Apprenticeship Patterns** Guidance for the Aspiring Software Craftsman -
 David H. Hoover and Adewale Oshineye *(a,-)*
 
@@ -131,7 +125,7 @@ Bruce Schneier *(a,-)*
 **Python Essential Reference**
 David M. Beazley *(m,-)*
 
-**Clean Code, A Handbook of Agile Software Craftsmanship**
+**Clean Code**, A Handbook of Agile Software Craftsmanship -
 Robert C. Martin *(a,-)*
 
 **Python the Hard Way**
@@ -206,6 +200,8 @@ Abraham Silberschatz, Peter Baer Galvin, Greg Cagne *(a,-)*
 **The C Programming Language**
 Brian W. Kernighan, Dennis Ritchie *(a,a)*
 
+**Key: (x,x)** *(text read, exercises completed)*  
+a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
 
 
 
