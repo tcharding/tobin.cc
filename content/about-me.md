@@ -15,7 +15,7 @@ I am a self declared apprentice Linux programmer. Ater completing
 undergraduate and post graduate degrees in computer science, both in
 software development, it became clear to me that I still did not know
 how to code. One day I decided to open K&R and start from scratch. Two
-years later, 40+ tech books, 7 languages, 40 000+ lines of code, 90+
+years later, 40+ tech books, 7 languages, 40 000+ lines of code, 100+
 kernel patches, I still consider myself an apprentice.
 
 I live on the Central Coast of New South Wales Australia and have

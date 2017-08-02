@@ -35,3 +35,7 @@ theme = "hugo-theme-nix"
     name = "resume"
     weight = 0
     url = "/resume"
+  [[menu.header]]
+    name = "talks"
+    weight = 0
+    url = "/talks"
