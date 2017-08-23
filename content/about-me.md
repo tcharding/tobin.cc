@@ -11,7 +11,7 @@ techno.  I like learning things, mostly computer related things, but
 also Jiu-Jitsu. For health and giggles I do yoga, rock climb,
 ferment, and grow vegetables.
 
-I am a self declared apprentice Linux programmer. Ater completing
+I am a self declared apprentice Linux programmer. After completing
 undergraduate and post graduate degrees in computer science, both in
 software development, it became clear to me that I still did not know
 how to code. One day I decided to open K&R and start from scratch. Two
