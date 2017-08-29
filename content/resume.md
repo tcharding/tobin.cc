@@ -4,47 +4,48 @@ title = "Resume of Tobin Harding: Linux Programmer"
 +++
 
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **12 years** experience using **Linux**.
-* Apprenticeship, **2 years** full time programming. 
+* Apprenticeship, **2+ years** non-commercial Linux development experience.
+* **Kubernetes** contributor.
 * **100+ patches** merged into the **Linux kernel**.
 * **98th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
+* **12 years** experience using **Linux**.
 * **Founder** of The Central Coast Linux Users Group (LUG).
 
 ## Open Source Experience
 
 Open source contributions made to the following projects, among others:
 
-* Linux Kernel
-  [mainline](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc).
+* [Kubernetes](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+kubernetes+) (Go) 
+* [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc)
+ (C ).
 * Gonum graph library (Go).
-* [OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server/graphs/contributors) (Python).
+* OpenBazaar-Server (Python).
 * Guile Scheme (Scheme, C).
 * Binutils, GNU Assembler (Documentation).
 
-Primarily interested in layer 2 networking code within the Linux
-kernel. 100+ patches merged into the kernel. Focus on the KS7010 Wi-Fi
-driver (drivers/staging/ks7010). While resolving PowerPC kernel issues
-contributed documentation patches to the GNU Assembler, as well as an
-assembly code patch series within the kernel powerpc code. Also minor
-bug fixes and clean up patches to the PowerPC tree as well as trivial
-cleanup patches into the kernel core (net, purgatory, mm).
+Currently working on the Kubernetes project. Initial efforts centered on the sig/cli code
+base. Navigating the on-boarding process by refactoring, cleaning up documentation, and simple issue
+resolution. Attending fortnightly scheduled sig/cil meetings. Cleanup/refactoring pull requests into
+sig/node also.
 
-While studying data structures and algorithms contributed code, and
-design test implementation, to the Gonum graph library written in
-Golang. Utilized graph library as reference while implementing
+Previously worked on layer 2 networking code within the Linux kernel. 100+ patches merged into the
+mainline. Focus on the KS7010 Wi-Fi driver (drivers/staging/ks7010). While resolving PowerPC kernel
+issues contributed documentation patches to the GNU Assembler, as well as an assembly code patch
+series within the kernel powerpc code. Also minor bug fixes and clean up patches to the PowerPC tree
+as well as trivial cleanup patches into the kernel core (net, purgatory, mm).
+
+While studying data structures and algorithms contributed code, and design test implementation, to
+the Gonum graph library written in Golang. Utilized graph library as reference while implementing
 solutions to graph problems on HackerRank.
 
-Contributed to the Free Software Foundation Guile project. Interacted
-with Guile community via public mailing list. Iterated multiple
-revisions in order to assimilate a personal fix into a patch that was
-acceptable by the community. Produced a solution to a known
-outstanding issue requiring a multi-language patch set in C and
-Scheme.
+Contributed to the Free Software Foundation Guile project. Interacted with Guile community via
+public mailing list. Iterated multiple revisions in order to assimilate a personal fix into a patch
+that was acceptable by the community. Produced a solution to a known outstanding issue requiring a
+multi-language patch set in C and Scheme.
 
-Two months focused work on OpenBazaar Server code in Python. First
-non-company contributor to the project. Most patches were unit testing
-and code refactoring. Some work on the command line interface and
-interoperability between operating systems.
+Two months focused work on OpenBazaar Server code in Python. First non-company contributor to the
+project. Most patches were unit testing and code refactoring. Some work on the command line
+interface and interoperability between operating systems.
 
 ## Education
 
@@ -102,47 +103,14 @@ meetings. Financially supported the group for the first three years.
 * Constantly chasing perfection, efficiency of space and time, beauty of code.
 * Programming craftsmanship.
 
-## Code Written in the last 12 months
+## Code Written recently
 
-All code is open source and hosted on
-[Github](https://github.com/tcharding/self_learning). Unless
-explicitly requested otherwise (i.e Project Euler, Eudyptula Challenge).
-
-### Linux Kernel
-* 100+ patches into the Linux Kernel.
-* Focus on device drivers (drivers/staging).
-* Minor patches to PowerPC (arch/PowerPC).
-* Currently working on challenges from [The Eudyptula Challenge](http://eudyptula-challenge.org/). 
-
-### Golang
-* 140+ algorithmic problems on [HackerRank](https://www.hackerrank.com/tcharding).
-* Data structures. Implementations and [blog](http://tobin.cc/blog/)
-posts.
-* Contributions to the Gonum graph library.
-* Exercises from The Go Programming Language.
-
-### Haskell
-* 50+ problems from [Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems).
-* Approximately 20 problems from [Project Euler](https://projecteuler.net/). 
-
-### Scheme
-* Guile patch modifying compiler output (in C and Scheme).
-* Worked all Exercises from SICP (upto exercise 4.71).
-* Exercises from The Scheme Programming Language.
-* Worked The Little Schemer.
-
-### Assembler (ARMv4T)
-Toolchain: gcc and the GNU Assembler.
-
-* Exercises from ARM Assembly Language.
-
-### Python
-* Contributed to the [Open Bazaar](https://github.com/OpenBazaar/OpenBazaar-Server) project. 
-* Completed first four sets from the [Matasano Cryptography Challenges](https://cryptopals.com/). 
-* 30+ problems from [Project Euler](https://projecteuler.net/).
+See [Github](https://github.com/tcharding/self_learning) repository for code written recently. All
+code worked on is open source unless explicitly requested otherwise (i.e Project Euler, Eudyptula
+Challenge).
 
 ## Buzz Words
 
-ARM, x86_64, MIPS, PowerPC,
-Linux, Ubuntu, Emacs, Zsh, Mutt, Git,
-Haskell, Scheme Lisp, Assembler, C, Go, Python, Perl, Java, C++,  Objective-C, Prolog, Bash
+ARM, x86_64, MIPS, PowerPC,  
+Linux, Ubuntu, Emacs, Zsh, Mutt, Git,  
+Haskell, Scheme Lisp, Assembler, C, Go, Python, Perl, Java, C++, Objective-C, Prolog, Bash  
