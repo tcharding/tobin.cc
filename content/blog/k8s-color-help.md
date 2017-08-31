@@ -97,6 +97,6 @@ alias go='/usr/bin/grc go'
 ```
 
 voilà `kch` now presents nice colorized output and you can easily discern the options for whichever
-Kubernetescommand you are investigating. Bonus points `go test` is colorized too.
+Kubernetes command you are investigating. Bonus points: `go test` is colorized too.
 
 thanks
