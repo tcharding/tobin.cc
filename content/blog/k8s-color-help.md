@@ -9,7 +9,7 @@ fun work on. Development is done via [GitHub](https://github.com/kubernetes/) an
 
 <!--more-->
 
-Kubernetes is a complex project. It is not super big, in terms of line count, approximately 35 000
+Kubernetes is a complex project. It is not super big, in terms of line count, approximately 90 000
 at the time of writing. The project is moving quite fast, I read today that they are merging about
 30 pull requests a day. Development is divided among special interest groups (SIG). New developers
 are directed towards SIG/CLI. As you might guess this group takes care of the command line interface
