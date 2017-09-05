@@ -4,7 +4,8 @@ title = "Presentations"
 +++
 
 * **Tutorial: Hacking Device Drivers - How to get into kernel development** ([git repo](http://github.com/tcharding/kernel))  
-  14th September 2017 - Open Source Summit North America  
+  14th September 2017 - Open Source Summit North America
+  ([slides](http://tobin.cc/kernel-dev-tutorial.pdf))  
   23rd August 2017 - Central Coast Linux Users Group  
 
 * **Talk: Getting Started With Linux Kernel Development**
