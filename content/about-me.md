@@ -18,5 +18,8 @@ how to code. One day I decided to open K&R and start from scratch. Two
 years later, 40+ tech books, 7 languages, 40 000+ lines of code, 100+
 kernel patches, I still consider myself an apprentice.
 
+I like to work on open source infrastructure projects. At the moment this
+means the Linux kernel and Kubernetes.
+
 I live on the Central Coast of New South Wales Australia and have
 three children.
