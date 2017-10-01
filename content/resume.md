@@ -23,10 +23,8 @@ Open source contributions made to the following projects, among others:
 * Guile Scheme (Scheme, C).
 * Binutils, GNU Assembler (Documentation).
 
-Currently working on the Kubernetes project. Initial efforts centered on the sig/cli code
-base. Navigating the on-boarding process by refactoring, cleaning up documentation, and simple issue
-resolution. Attending fortnightly scheduled sig/cil meetings. Cleanup/refactoring pull requests into
-sig/node also.
+Currently working on the Linux kernel and the Kubernetes project. Interested in filesystems,
+networking, and OCI runtime.
 
 Previously worked on layer 2 networking code within the Linux kernel. 100+ patches merged into the
 mainline. Focus on the KS7010 Wi-Fi driver (drivers/staging/ks7010). While resolving PowerPC kernel
