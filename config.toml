@@ -39,7 +39,3 @@ theme = "hugo-theme-nix"
     name = "talks"
     weight = 0
     url = "/talks"
-  [[menu.header]]
-    name = "TODO"
-    weight = 0
-    url = "/todo"
