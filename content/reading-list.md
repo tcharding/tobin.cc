@@ -39,16 +39,19 @@ Rami Rosen
 
 # Current
 
-**Peopleware** Productive Projects and Teams -
-Tom DeMarco and Timothy Lister
-
 **Mastering Regular Expressions**
 Jeffrey E.F. Friedl
 
-(second reading) **The Go Programming Language**
-Alan A. A. Donovan, Brian W. Kernighan *(a,a)*
+**Linux Kernel Networking** Implementation and Theory -
+Rami Rosen  
 
 # Past
+
+**UNIX Filesystems** Evolution, Design, and Implementation -
+Steve D. Pate  
+
+**Peopleware** Productive Projects and Teams -
+Tom DeMarco and Timothy Lister
 
 **Programming Pearls** Jon Bentley *(a,n)*
 
