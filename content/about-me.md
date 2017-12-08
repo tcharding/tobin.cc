@@ -10,10 +10,11 @@ excitable I like to listen to techno.  I like learning things, mostly computer
 related things, but also Jiu-Jitsu. For health and giggles I do yoga, rock
 climb, ferment, and grow vegetables.
 
-I am a Linux programmer. I have undergraduate and postgraduate degrees in
-computer science as well as a two year software apprenticeship. I currently work
-on the Linux Kernel.
+I have undergraduate and postgraduate degrees in computer science as well as a
+two year software apprenticeship. I currently work on the Linux Kernel.
 
 I live on the Central Coast of New South Wales Australia and have three
 children.
+
+
 
