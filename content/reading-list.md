@@ -81,11 +81,14 @@ Andrew S. Tanenbaum *(m,)*
 **Essential Linux Device Drivers**
 Sreekrishnan Venkateswaran *(a,-)*
 
-**Linux Kernel Develop**
+**Linux Kernel Development**
 Robert Love *(a,-)*
 
 **Open Data Structures**
 Pat Morin *(m,-)*
+
+**The Go Programming Language** *(m,m)*
+Alan A. A. Donovan, Brian W. Kernighan
 
 **Pro Git** Scott Chacon *(m,-)*
 
