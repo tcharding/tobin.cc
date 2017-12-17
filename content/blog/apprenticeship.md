@@ -64,7 +64,7 @@ from my wife. Be careful kids too much coding can effect your social life :)
 During this time I also settled on a development environment. For the record the
 stack I settled on is:
 
-	Emacs, Zsh, Terminator, Mutt, Firefox, git, and gcc.
+	Emacs, Zsh, Terminator, Mutt, Firefox, Git, and GCC.
 
 For the record I have used in the past Ubuntu, Debian, Slackware, and Arch. I
 now use Ubuntu.
