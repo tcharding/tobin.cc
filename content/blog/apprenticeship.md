@@ -221,7 +221,7 @@ Algorithm Design Manual [SS12] and the online text
 And on into the Kernel
 ----------------------
 
-Mid January 2017 was linux.conf.au in Gelong. And, as was now customary,
+Mid January 2017 was linux.conf.au in Geelong. And, as was now customary,
 attendance got me super psyched on Kernel development. On returning from the
 conference I dropped work on algorithms and started Kernel programming. This
 included re-reading Linux Device Drivers [CRK05] and making a (short lived)
