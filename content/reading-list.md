@@ -48,12 +48,12 @@ Rami Rosen
 # Past
 
 **UNIX Filesystems** Evolution, Design, and Implementation -
-Steve D. Pate  
+Steve D. Pate *(a,n)*
 
 **Peopleware** Productive Projects and Teams -
-Tom DeMarco and Timothy Lister
+Tom DeMarco and Timothy Lister *(a,-)*
 
-**Programming Pearls** Jon Bentley *(a,n)*
+**Programming Pearls** Jon Bentley *(a,s)*
 
 **The Mythical Man-Month**
 Frederick P. Brooks, Jr. *(a,-)*
