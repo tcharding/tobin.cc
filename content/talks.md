@@ -3,6 +3,10 @@ date = "2017-08-02T10:07:59+10:00"
 title = "Presentations"
 +++
 
+* **Talk: Intro to Kernel Hacking - finding things to work on**
+([slides](http://tobin.cc/kernel-dev-finding-work.pdf))  
+  22nd January 2018 - Linux.conf.au  
+
 * **Tutorial: Hacking Device Drivers - How to get into kernel development** ([git repo](http://github.com/tcharding/kernel))  
   14th September 2017 - Open Source Summit North America
   ([slides](http://tobin.cc/kernel-dev-tutorial.pdf))  
