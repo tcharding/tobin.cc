@@ -7,7 +7,7 @@ Hello people, I am **Tobin Harding**. I code in the Linux environment. I like
 command line interfaces and statically typed languages. When I am trying to
 relax I listen to classical music, when I'm eating - jazz, and when getting
 excitable I like to listen to techno.  I like learning things, mostly computer
-related things, but also Jiu-Jitsu. For health and giggles I do yoga, rock
+related things, but also jiu-jitsu. For health and giggles I do yoga, rock
 climb, ferment, and grow vegetables.
 
 I have undergraduate and postgraduate degrees in computer science as well as a
