@@ -34,18 +34,18 @@ Robert Sedgewick
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen
 
-**The Art of Linux Kernel Design** Illustrating the Operating System
-  Design Principle and Implementation - Lixiang Yang
+**A Guide to Kernel Exploitation** Attacking the Core -
+Enrica Perla, Massimiliano Oldani
 
 # Current
 
-**Mastering Regular Expressions**
-Jeffrey E.F. Friedl
-
-**Linux Kernel Networking** Implementation and Theory -
-Rami Rosen  
+**The Art of Linux Kernel Design** Illustrating the Operating System
+  Design Principle and Implementation - Lixiang Yang
 
 # Past
+
+**Mastering Regular Expressions**
+Jeffrey E.F. Friedl *(m,-)*
 
 **UNIX Filesystems** Evolution, Design, and Implementation -
 Steve D. Pate *(a,n)*
