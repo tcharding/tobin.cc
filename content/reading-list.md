@@ -34,18 +34,18 @@ Robert Sedgewick
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen
 
+# Current
+
 **A Guide to Kernel Exploitation** Attacking the Core -
 Enrica Perla, Massimiliano Oldani
 
-# Current
-
-**The Art of Linux Kernel Design** Illustrating the Operating System
-  Design Principle and Implementation - Lixiang Yang
-
 # Past
 
+**The Art of Linux Kernel Design** Illustrating the Operating System
+  Design Principle and Implementation - Lixiang Yang  *(a,-)*
+
 **Mastering Regular Expressions**
-Jeffrey E.F. Friedl *(m,-)*
+Jeffrey E.F. Friedl *(a,-)*
 
 **UNIX Filesystems** Evolution, Design, and Implementation -
 Steve D. Pate *(a,n)*
@@ -122,7 +122,7 @@ William Hohl *(a,m)*
 **The Linux Programming Interface**
 Michael Kerrisk *(m,m)*
 
-**Programming the World Wide**
+**Programming the World Wide Web**
 Rebert W. Sebesta *(a,-)*
 
 **Applied Cryptography**
@@ -164,7 +164,7 @@ Andrew Hunt, David Thomas *(a,-)*
 **The Art of UNIX Programming**
 Eric S. Raymond *(a,-)*
 
-**Expert C Programming, Deep C Secrets**
+**Expert C Programming**, Deep C Secrets
 Peter Van Der Linden *(a,-)*
 
 **The Practice of Programming**
@@ -206,8 +206,19 @@ Abraham Silberschatz, Peter Baer Galvin, Greg Cagne *(a,-)*
 **The C Programming Language**
 Brian W. Kernighan, Dennis Ritchie *(a,a)*
 
-**Key: (x,x)** *(text read, exercises completed)*  
-a = **all**, s = **some**, m = **most**, n= **none**, - = **not applicable** (i.e no exercises in text).
+----------------------
+
+
+#### Key:  
+
+**\<Title\>** \<author\> *(x, y)*  
+x == percentage of text read  
+y == percentage of exercises completed  
+'a' - all  
+'m' - most  
+'s' - some  
+'n' - none  
+'-' - no exercises in text  
 
 
 
