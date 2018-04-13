@@ -87,7 +87,7 @@ Robert Love *(a,-)*
 **Open Data Structures**
 Pat Morin *(m,-)*
 
-**The Go Programming Language** *(m,m)*
+**The Go Programming Language** *(a,m)*
 Alan A. A. Donovan, Brian W. Kernighan
 
 **Pro Git** Scott Chacon *(m,-)*
