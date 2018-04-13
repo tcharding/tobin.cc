@@ -31,15 +31,15 @@ Peter Seibel
 **Algorithms in C** Parts 1 - 5
 Robert Sedgewick
 
+# Current
+
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen
 
-# Current
+# Past
 
 **A Guide to Kernel Exploitation** Attacking the Core -
 Enrica Perla, Massimiliano Oldani
-
-# Past
 
 **The Art of Linux Kernel Design** Illustrating the Operating System
   Design Principle and Implementation - Lixiang Yang  *(a,-)*
