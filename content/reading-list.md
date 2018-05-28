@@ -7,12 +7,6 @@ Past, current, and future. List is in approximate reverse chronological order.
 
 # Future
 
-**The Alchemist**
-Paulo Coelho
-
-**Gödel, Escher, Bach: an Eternal Golden Braid**
-Douglas R. Hofstadter
-
 **An Introduction to Functional Programming Systems Using Haskell**
 A J T Davie
 
@@ -31,12 +25,21 @@ Peter Seibel
 **Algorithms in C** Parts 1 - 5
 Robert Sedgewick
 
+**Computer Architecture** A Quantitative Approach -
+John L. Hennessy, David A. Patterson
+
+**Compilers** Principles, Techniques, and Tools -
+Aho Lam, Sethi Ullman
+
 # Current
+
+**Computer Organization and Design**
+David A. Patterson, John L. Hennessy (second reading)
+
+# Past
 
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen
-
-# Past
 
 **A Guide to Kernel Exploitation** Attacking the Core -
 Enrica Perla, Massimiliano Oldani
@@ -198,7 +201,7 @@ Larry L. Peterson, Bruce S. Davie *(a,-)*
 Martin Liebeck *(m,m)*
 
 **Computer Organization and Design**
-David A. Patterson, John L Hennessy *(a,-)*
+David A. Patterson, John L. Hennessy *(a,-)*
 
 **Operating System Concepts**
 Abraham Silberschatz, Peter Baer Galvin, Greg Cagne *(a,-)*
