@@ -3,19 +3,36 @@ date = "2017-04-17T21:00:43+11:00"
 title = "Resume of Tobin Harding: Linux Programmer"
 +++
 
+* **Three years** software development experience.
+* **Linux kernel maintainer** (scripts/leaking_addresses.pl).
+* **12 years** experience using **Linux**.
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **24 month** software apprenticeship.
 * **8 months** full time **Linux kernel** development experience.
-* **Linux kernel maintainer**, 100+ patches merged into the mainline.
+* **24 month** software apprenticeship.
 * **Kubernetes** contributor.
 * **98th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
-* **12 years** experience using **Linux**.
 * **Founder** of Central Coast Linux Users Group
+
+## Current Position
+
+Currently working at AppOrbit on the AppSwitch project.  From the project documentation:
+
+	AppSwitch performs service discovery, access control and traffic management
+	functions on behalf of the applications by transparently taking over the
+	applications network API calls. 
+
+Role involves writing Golang and C (kernel space and user space).  AppSwitch
+includes a Linux kernel driver to intercept system calls and also provides the
+same functionality in user space using BPF.
+
+Testing done in C, Golang, and Bash.  Vagrant used to manage virtual machines
+for end to end (e2e) testing.
+
+Position held since January 2018.
 
 ## Open Source Experience
 
 Open source contributions made to the following projects, among others:
-
 
 * [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc)
  (C ).
@@ -26,10 +43,10 @@ Open source contributions made to the following projects, among others:
 * Guile Scheme (Scheme, C).
 * Binutils, GNU Assembler (Documentation).
 
-Currently working on the Linux kernel, primarily the Kernel Self Protection
-Project. Also interested in filesystems, networking, device drivers and
-security. Current Linux kernel maintainer of the leaking_addresses.pl
-script. 100+ patches merged into the mainline.
+Occasionally work on the Linux kernel, primarily the Kernel Self Protection
+Project and netdev. Also interested in filesystems, networking, device drivers
+and security. Current Linux kernel maintainer of the leaking_addresses.pl
+script.
 
 Previously worked on layer 2 networking code within the Linux kernel. Focus on
 the KS7010 Wi-Fi driver (drivers/staging/ks7010).  Also some Power PC work.
@@ -112,15 +129,8 @@ Computer Society (2015).
 
 ## Motivation for Writing Code
 
-* The social interaction of programming on a project together with others.
-* Continually learning and refining skills and technique.
+* Collaborating with others to produce the best possible codebase/project.
+* Continually learning and refining skills and technique (the craft).
 * How good ‘clean code’ looks on the screen.
 * The feeling when an insurmountable problem dissolves.
-* Constantly chasing perfection, efficiency of space and time, beauty of code.
-* Programming craftsmanship.
-
-## Buzz Words
-
-ARM, x86_64, MIPS, PowerPC,  
-Linux, Ubuntu, Emacs, Zsh, Mutt, Git,  
-Haskell, Scheme Lisp, Assembler, C, Go, Python, Perl, Java, C++, Objective-C, Prolog, Bash  
+* Constantly refining.
