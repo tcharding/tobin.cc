@@ -25,8 +25,9 @@ Role involves writing Golang and C (kernel space and user space).  AppSwitch
 includes a Linux kernel driver to intercept system calls and also provides the
 same functionality in user space using BPF.
 
-Testing done in C, Golang, and Bash.  Vagrant used to manage virtual machines
-for end to end (e2e) testing.
+Testing done in Python, Bash, C, and Golang.  Responsible for writing and
+maintaining end 2 end tests (written in Python and shell) utilising docker in
+docker.
 
 Position held since January 2018.
 

@@ -25,18 +25,18 @@ Peter Seibel
 **Algorithms in C** Parts 1 - 5
 Robert Sedgewick
 
-**Computer Architecture** A Quantitative Approach -
-John L. Hennessy, David A. Patterson
-
 **Compilers** Principles, Techniques, and Tools -
 Aho Lam, Sethi Ullman
 
 # Current
 
-**Computer Organization and Design**
-David A. Patterson, John L. Hennessy (second reading)
+**Computer Architecture** A Quantitative Approach -
+John L. Hennessy, David A. Patterson
 
 # Past
+
+**Computer Organization and Design**
+David A. Patterson, John L. Hennessy (read twice)
 
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen
