@@ -3,33 +3,30 @@ date = "2017-04-17T21:00:43+11:00"
 title = "Resume of Tobin Harding: Linux Programmer"
 +++
 
-* **Three years** software development experience.
-* **Linux kernel maintainer** (scripts/leaking_addresses.pl).
-* **12 years** experience using **Linux**.
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **8 months** full time **Linux kernel** development experience.
-* **24 month** software apprenticeship.
-* **Kubernetes** contributor.
-* **98th percentile** in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
-* **Founder** of Central Coast Linux Users Group
+* **3+ years** software development experience.
+* **Linux kernel maintainer**.
+* Commercial **Golang** development experience.
+* 24 month software apprenticeship.
+* 98th percentile in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
+* **12 years experience** using Linux.
+* Founder of Central Coast Linux Users Group
 
-## Current Position
+## Most recent Position
 
-Currently working at AppOrbit on the AppSwitch project.  From the project documentation:
+Worked at AppOrbit on the AppSwitch project.  From the project documentation:
 
 	AppSwitch performs service discovery, access control and traffic management
 	functions on behalf of the applications by transparently taking over the
 	applications network API calls. 
 
-Role involves writing Golang and C (kernel space and user space).  AppSwitch
+Role involved writing Golang and C (kernel space and user space).  AppSwitch
 includes a Linux kernel driver to intercept system calls and also provides the
 same functionality in user space using BPF.
 
-Testing done in Python, Bash, C, and Golang.  Responsible for writing and
-maintaining end 2 end tests (written in Python and shell) utilising docker in
+Testing done in Python, Bash, C, and Golang.  Was responsible for writing and
+maintaining end to end tests (written in Python and shell) utilising docker in
 docker.
-
-Position held since January 2018.
 
 ## Open Source Experience
 
@@ -39,15 +36,15 @@ Open source contributions made to the following projects, among others:
  (C ).
 * [ZFS](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+zfs+) (C ).
 * [Kubernetes](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+kubernetes+) (Go) 
+* Mystereum (blockchain, Go).
 * Gonum graph library (Go).
 * OpenBazaar-Server (Python).
 * Guile Scheme (Scheme, C).
 * Binutils, GNU Assembler (Documentation).
 
-Occasionally work on the Linux kernel, primarily the Kernel Self Protection
-Project and netdev. Also interested in filesystems, networking, device drivers
-and security. Current Linux kernel maintainer of the leaking_addresses.pl
-script.
+Work on the Linux kernel, primarily the Kernel Self Protection Project and
+netdev. Also interested in filesystems, networking, device drivers and
+security. Current Linux kernel maintainer of the leaking_addresses.pl script.
 
 Previously worked on layer 2 networking code within the Linux kernel. Focus on
 the KS7010 Wi-Fi driver (drivers/staging/ks7010).  Also some Power PC work.
