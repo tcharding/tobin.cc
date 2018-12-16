@@ -16,9 +16,6 @@ Chris Okasaki
 **Hackers Delight**
 Henry S. Warren, Jr.
 
-**Artificial Intelligence** A modern Approach -
-Stuart Russell and Peter Norvig
-
 **Coders At Work** Reflections on the craft of programming -
 Peter Seibel
 
@@ -30,22 +27,25 @@ Aho Lam, Sethi Ullman
 
 # Current
 
-**Computer Architecture** A Quantitative Approach -
-John L. Hennessy, David A. Patterson
+**Artificial Intelligence** A modern Approach -
+Stuart Russell and Peter Norvig
 
 # Past
 
+**Computer Architecture** A Quantitative Approach -
+John L. Hennessy, David A. Patterson *(a,-)*
+
 **Computer Organization and Design**
-David A. Patterson, John L. Hennessy (read twice)
+David A. Patterson, John L. Hennessy (second reading) *(a,-)*
 
 **Linux Kernel Networking** Implementation and Theory -
-Rami Rosen
+Rami Rosen  *(a,-)*
 
 **A Guide to Kernel Exploitation** Attacking the Core -
-Enrica Perla, Massimiliano Oldani
+Enrica Perla, Massimiliano Oldani *(a,-)*
 
 **The Art of Linux Kernel Design** Illustrating the Operating System
-  Design Principle and Implementation - Lixiang Yang  *(a,-)*
+  Design Principle and Implementation - Lixiang Yang  (a,-)*
 
 **Mastering Regular Expressions**
 Jeffrey E.F. Friedl *(a,-)*
