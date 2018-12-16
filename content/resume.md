@@ -11,7 +11,7 @@ title = "Resume of Tobin Harding: Linux Programmer"
 * 98th percentile in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
 * **12 years experience** using Linux.
 * Founder of Central Coast Linux Users Group.
-* Founder of Crowd Code Pty Ltd.
+* Founder of Crowd Coded Pty Ltd.
 
 ## Current Position
 
