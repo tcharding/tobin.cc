@@ -10,9 +10,17 @@ title = "Resume of Tobin Harding: Linux Programmer"
 * 24 month software apprenticeship.
 * 98th percentile in algorithms on [HackerRank](https://www.hackerrank.com/tcharding).
 * **12 years experience** using Linux.
-* Founder of Central Coast Linux Users Group
+* Founder of Central Coast Linux Users Group.
+* Founder of Crowd Code Pty Ltd.
 
-## Most recent Position
+## Current Position
+
+Currently endeavouring to build a software company Crowd Coded.  Also doing
+contract work, web development and hosting.
+
+Tooling up in the area of artificial intelligence (in Golang). 
+
+## Previous Position
 
 Worked at AppOrbit on the AppSwitch project.  From the project documentation:
 
