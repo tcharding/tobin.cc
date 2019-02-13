@@ -85,7 +85,7 @@ for details.
 #### January 2013 – March 2015: **Sales Manager** Black Swan Trading Company Pty Ltd  
 Sales and logistics. Managed a staff of 5.
 
-#### January 2007 – December 2012: **Support Technician** Sydney City Networks Pty Ltd  
+#### January 2007 – December 2012: **Support Technician** Sydney City Networks  
 Mac OSX support technician. Residential and small office network design,
 installation, and support.
 
