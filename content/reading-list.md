@@ -25,10 +25,13 @@ Robert Sedgewick
 **Compilers** Principles, Techniques, and Tools -
 Aho Lam, Sethi Ullman
 
-# Current
-
 **Artificial Intelligence** A modern Approach -
 Stuart Russell and Peter Norvig
+
+# Current
+
+**Understanding the Linux Virtual Memory Manager**
+Mel Gorman
 
 # Past
 
