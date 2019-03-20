@@ -3,14 +3,15 @@ date = "2017-04-17T21:00:43+11:00"
 title = "Resume of Tobin Harding: Linux Programmer"
 +++
 
-* **Undergraduate** and **postgraduate** degrees in computer science.
-* **3+ years** software development **experience**.
-* 9 months commercial **Golang** experience.
-* **Linux kernel maintainer**
+* **250 upstream** Linux kernel patches (as of v5.0)
+* Linux kernel **maintainer**
 ([scripts/leaking_addresses.pl](https://git.kernel.org/pub/scm/linux/kernel/git/tobin/leaks.git/)).
-* Upstream **kernel** contributor  since 2016.
-* 24 month software apprenticeship.
+* 9 months commercial **Golang** experience.
+* **Undergraduate** and **postgraduate** degrees in computer science.
+* **4 years** software development **experience**.
+* Upstream Linux kernel contributor  since 2016.
 * **12 years experience** using Linux.
+* 24 month software apprenticeship.
 * Founder of Central Coast Linux Users Group.
 * Founder of Crowd Coded Pty Ltd.
 
