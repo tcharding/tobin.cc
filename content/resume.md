@@ -6,7 +6,7 @@ title = "Resume of Tobin Harding: Linux Programmer"
 * **250 upstream** Linux kernel patches (as of v5.0)
 * Linux kernel **maintainer**
 ([scripts/leaking_addresses.pl](https://git.kernel.org/pub/scm/linux/kernel/git/tobin/leaks.git/)).
-* 9 months commercial **Golang** experience.
+* 12 months commercial **Golang** experience.
 * **Undergraduate** and **postgraduate** degrees in computer science.
 * **4 years** software development **experience**.
 * Upstream Linux kernel contributor  since 2016.
