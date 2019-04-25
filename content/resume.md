@@ -4,12 +4,11 @@ title = "Resume of Tobin Harding: Linux Programmer"
 +++
 
 * **4 years** software development **experience**.
-* **250 upstream** Linux kernel patches (as of v5.0)
-* Linux kernel **maintainer**
-([scripts/leaking_addresses.pl](https://git.kernel.org/pub/scm/linux/kernel/git/tobin/leaks.git/)).
 * 12 months commercial **Golang** experience.
+* Linux kernel **maintainer**
+* **250** mainline Linux **kernel** patches.
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **12 years experience** using Linux.
+* **12 years** experience using **Linux**.
 * Founder of Central Coast Linux Users Group.
 * Founder of Crowd Coded Pty Ltd.
 
@@ -73,8 +72,8 @@ Testing done in Python, Bash, C, and Golang. Responsible for writing and
 maintaining end to end tests (written in Python and shell) utilizing docker in
 docker.
 
-Assisted in building release images using Packer targeting AWS and
-Google Cloud. Project is developed and released as a docker image.
+Assisted in building release docker images using Packer targeting AWS and
+Google Cloud.
 
 #### April 2015 – March 2017: **Software Development Apprenticeship**
 Two year self directed and funded software development apprenticeship. See below
