@@ -54,7 +54,7 @@ between operating systems.
 
 ## Work Experience
 
-#### October 2017 – present: **Software Developer** Crowd Coded Pty Ltd  
+#### April 2017 – present: **Software Developer** Crowd Coded Pty Ltd  
 Contract software developer. Role involves:  
 1. Development and maintenance of userspace applications in Golang, Bash, and Python.  
 2. Linux kernel development.  Memory management, device drivers, security (kernel
