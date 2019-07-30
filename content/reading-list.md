@@ -30,16 +30,28 @@ Stuart Russell and Peter Norvig
 
 # Current
 
-**Understanding the Linux Virtual Memory Manager**
-Mel Gorman
+**Mastering Bitcoin** Programming the open blockchain -
+Andreas M. Antonopoulos
 
 # Past
+
+**Mastering Ethereum** Building Smart Contracts and DApps -
+Andreas M. Antonopoulos, Dr. Gavin Wood *(a,-)*
+
+**REST in Practice** Hypermedia and Systems Architecture -
+Jim Webber, Savas Parastatidis, Ian Robbin *(a,-)*
+
+**The Clean Coder** A Code of Conduct for Professional Programmers -
+Robert C. Martin *(a,-)* (second reading) 
+
+**Understanding the Linux Virtual Memory Manager**
+Mel Gorman *(a,-)*
 
 **Computer Architecture** A Quantitative Approach -
 John L. Hennessy, David A. Patterson *(a,-)*
 
 **Computer Organization and Design**
-David A. Patterson, John L. Hennessy (second reading) *(a,-)*
+David A. Patterson, John L. Hennessy *(a,-)* (second reading) 
 
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen  *(a,-)*
