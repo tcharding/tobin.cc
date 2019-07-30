@@ -4,6 +4,8 @@ title = "Reading List"
 +++
 
 Past, current, and future. List is in approximate reverse chronological order.
+Some texts are good enough to deserve a second reading, if so the text appears
+in the list twice with '(second reading)' appended.
 
 # Future
 
