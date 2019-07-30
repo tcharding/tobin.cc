@@ -43,7 +43,7 @@ Andreas M. Antonopoulos, Dr. Gavin Wood *(a,-)*
 **REST in Practice** Hypermedia and Systems Architecture -
 Jim Webber, Savas Parastatidis, Ian Robbin *(a,-)*
 
-**The Clean Coder** A Code of Conduct for Professional Programmers -
+**Clean Code**, A Handbook of Agile Software Craftsmanship -
 Robert C. Martin *(a,-)* (second reading) 
 
 **Understanding the Linux Virtual Memory Manager**
