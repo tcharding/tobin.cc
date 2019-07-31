@@ -54,7 +54,13 @@ between operating systems.
 
 ## Work Experience
 
-#### April 2017 – present: **Software Developer** Crowd Coded Pty Ltd  
+#### May 2019 – present: **Software Engineer - Blockchain** CoBlox  
+Rust developer, working on reference implementation of the COMIT protocol.
+
+The COMIT protocol is aiming to solve trustless exchange of assets across blockchains
+i.e., multi-ledger atomic swap.
+
+#### April 2017 – May 2019: **Software Developer** Crowd Coded Pty Ltd  
 Contract software developer. Role involves:  
 1. Development and maintenance of userspace applications in Golang, Bash, and Python.  
 2. Linux kernel development.  Memory management, device drivers, security (kernel
