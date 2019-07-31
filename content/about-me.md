@@ -10,12 +10,14 @@ excitable I like to listen to techno.  I like learning things, mostly computer
 related things, but also jiu-jitsu. For health and giggles I do yoga, rock
 climb, ferment, and grow vegetables.
 
-I am currently doing contracting work (under the name of
-[Crowd Coded Pty Ltd](https://crowdcoded.com.au), I'm writing any language that
-runs on Linux.  Also I am setting up a web development and hosting service.
+I am currently working at CoBlox, a research lab in Sydney primarily writing
+Rust code.  We are trying to solve the problem of atomic swap of assets between
+blockchains.  The protocol and reference implementation are both open source and
+up on [github](https://github.com/comit-network/).
 
-I previously worked for a California startup called AppOrbit on their AppSwitch
-project.  That meant writing networking code in Golang.
+I previously worked for a Californian startup called AppOrbit on their AppSwitch
+project.  That meant writing networking code in Golang and messing around with
+containers.
 
 I maintain a Perl script within the Linux kernel tree and like to submit the odd
 kernel patch now and then.
