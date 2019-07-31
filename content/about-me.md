@@ -13,7 +13,7 @@ climb, ferment, and grow vegetables.
 I am currently working at CoBlox, a research lab in Sydney primarily writing
 Rust code.  We are trying to solve the problem of atomic swap of assets between
 blockchains.  The protocol and reference implementation are both open source and
-up on [github](https://github.com/comit-network/).
+up on [GitHub](https://github.com/comit-network/).
 
 I previously worked for a Californian startup called AppOrbit on their AppSwitch
 project.  That meant writing networking code in Golang and messing around with
