@@ -32,19 +32,29 @@ Stuart Russell and Peter Norvig
 
 # Current
 
-**Mastering Bitcoin** Programming the open blockchain -
-Andreas M. Antonopoulos
+**Mastering Rust** - Rahul Sharma and Vesa Kaihlavirta
 
 # Past
 
+**Mastering Monero** - SerHack *(a,-)*
+
+**Hands-On Data Structures and Algorithms with Rust** -
+Claus Matzinger *(s,s)*
+
 **Mastering Ethereum** Building Smart Contracts and DApps -
-Andreas M. Antonopoulos, Dr. Gavin Wood *(a,-)*
+Andreas Antonopoulos, Gavin Wood *(a,-)*
+
+**Mastering Bitcoin** Programming the Open Blockchain -
+Andreas M. Antonopoulos *(a,-)*
 
 **REST in Practice** Hypermedia and Systems Architecture -
 Jim Webber, Savas Parastatidis, Ian Robbin *(a,-)*
 
 **Clean Code**, A Handbook of Agile Software Craftsmanship -
 Robert C. Martin *(a,-)* (second reading) 
+
+**The Rust Programming Language** -
+Steve Klabnik and Carol Nichols *(a,a)*
 
 **Understanding the Linux Virtual Memory Manager**
 Mel Gorman *(a,-)*
