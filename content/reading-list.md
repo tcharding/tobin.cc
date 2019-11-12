@@ -36,7 +36,8 @@ Stuart Russell and Peter Norvig
 
 # Past
 
-**Mastering Monero** - SerHack *(a,-)*
+**Mastering Monero** -
+SerHack *(a,-)*
 
 **Hands-On Data Structures and Algorithms with Rust** -
 Claus Matzinger *(s,s)*
