@@ -4,13 +4,12 @@ title = "Resume of Tobin Harding: Linux Programmer"
 +++
 
 * **4 years** software development **experience**.
-* 12 months commercial **Golang** experience.
-* Linux kernel **maintainer**
-* **250** mainline Linux **kernel** patches.
+* Commercial experience with **C, Rust, Golang**.
+* **250** mainline **Linux kernel** patches.
 * **Undergraduate** and **postgraduate** degrees in computer science.
 * **12 years** experience using **Linux**.
 * Founder of Central Coast Linux Users Group.
-* Founder of Crowd Coded Pty Ltd.
+
 
 ## Open Source Experience
 
@@ -26,60 +25,56 @@ Open source contributions made to the following projects, among others:
 * Guile Scheme (Scheme, C).
 * Binutils, GNU Assembler (Documentation).
 
-Linux kernel contributor since May 2016.  Author and maintainer of intree kernel
-Perl script `scripts/leaking_addresses.pl`.  Responsible for hashing `printk`
-specifier `%p`, landed in `v3.15`.  Involved in the removal of Variable Length Arrays
-from the kernel tree, enabling `make -Wvla`.  Worked on layer 2 networking
-code.  Focus on the KS7010 SDIO Wi-Fi driver.  PowerPC contributions; while resolving
+Linux kernel contributor since May 2016. Author and maintainer of intree kernel
+Perl script scripts/leaking_addresses.pl. Responsible for hashing printk
+specifier %p, landed in v3.15. Involved in the removal of Variable Length Arrays
+from the kernel tree, enabling `make -Wvla`. Worked on layer 2 networking
+code. Focus on the KS7010 Wi-Fi driver. PowerPC contributions; while resolving
 PowerPC kernel issues contributed documentation patches to the GNU Assembler, as
-well as assembly code.  Various other contributions to: device drivers (staging),
+well as assembly code. Various other contributions to: device drivers (staging),
 networking (including wireless), Kernel Self Protection Project, storage, and
-memory management.  250+ patches merged into the mainline.
+memory management. 250+ patches merged into the mainline.
+
+Two months focused work on OpenBazaar Server code in Python. First non-company
+contributor to the project. Most patches were unit testing and code
+refactoring. Some work on the command line interface and interoperability
+between operating systems.
 
 While studying data structures and algorithms contributed code, and design test
-implementation, to the Gonum graph library written in Golang.  Utilized graph
+implementation, to the Gonum graph library written in Golang. Utilized graph
 library as reference while implementing solutions to graph problems on
 HackerRank.
 
-Contributed to the Free Software Foundation Guile project.  Interacted with Guile
-community via public mailing list.  Iterated multiple revisions in order to
+Contributed to the Free Software Foundation Guile project. Interacted with Guile
+community via public mailing list. Iterated multiple revisions in order to
 assimilate a personal fix into a patch that was acceptable by the
-community.  Produced a solution to a known outstanding issue requiring a multi-
-language patch set in C and Scheme.
-
-Contributed to the OpenBazaar Server project, codebase in Python.  First
-non-company contributor to the project.  Most patches were unit testing and code
-refactoring.  Some work on the command line interface and interoperability
-between operating systems.
+community. Produced
 
 ## Work Experience
 
 #### May 2019 – present: **Software Engineer - Blockchain** CoBlox  
-Rust developer, working on reference implementation of the COMIT protocol.
-
-The COMIT protocol is aiming to solve trustless exchange of assets across blockchains
-i.e., multi-ledger atomic swap.
+Rust developer, working on reference implementation of the COMIT protocol. The
+COMIT protocol is aiming to solve trustless exchange of assets across
+blockchains i.e., multi-ledger atomic swap. Role involves protocol design,
+documentation, development, testing. Codebase is in Rust with end to end tests
+in Typescript. Solution uses peer to peer networking via libp2p.
 
 #### April 2017 – May 2019: **Software Developer** Crowd Coded Pty Ltd  
 Contract software developer. Role involves:  
-1. Development and maintenance of userspace applications in Golang, Bash, and Python.  
-2. Linux kernel development.  Memory management, device drivers, security (kernel
-hardening).  Upstream and out of tree module maintenance.  
-  - Authored and maintain
-  [scripts/leaking_addresses.pl](https://git.kernel.org/pub/scm/linux/kernel/git/tobin/leaks.git/).  
-  - Hashed `printk` specifier `%p` (landed v3.15).  
+- Development and maintenance of userspace applications in Golang, Bash, and Python.  
+- Container networking (Golang).  
+- Linux kernel development.  Memory management, device drivers, security (kernel
+hardening).  
+ 
 
 #### January 2018 - October 2018: **Software Developer** AppOrbit Incorporated  
-9 month contract.  Role involved debugging and developing new features. Code
-base is predominantly Golang but also includes userspace C code and an out of
-tree kernel module.
-
-Testing done in Python, Bash, C, and Golang. Responsible for writing and
-maintaining end to end tests (written in Python and shell) utilizing docker in
-docker.
-
-Assisted in building release docker images using Packer targeting AWS and
-Google Cloud.
+Contract software developer. Develop software in the field of container
+networking. Role involved debugging and developing new features. Code base
+predominantly Golang but also includes userspace C code and an out of tree
+kernel module. Testing done in Python, Bash, C, and Golang. Responsible for
+writing and maintaining end to end tests (written in Python and shell) utilising
+docker in docker.  Assisted in building release docker images using Packer
+targeting AWS and Google Cloud.
 
 #### April 2015 – March 2017: **Software Development Apprenticeship**
 Two year self directed and funded software development apprenticeship. See below
