@@ -32,15 +32,21 @@ Stuart Russell and Peter Norvig
 
 # Current
 
-**Mastering Rust** - Rahul Sharma and Vesa Kaihlavirta
+**Agile Retrospectives** Making Good Teams Great -
+Esther Derby, Diana Larsen
+
+**Design Concepts in Programming Languages** -
+Franklyn Turbak and David Giffort with Mark A. Sheldon
 
 # Past
 
+**Hands-On Data Structures and Algorithms with Rust** -
+Claus Matzinger *(a,a)*
+
+**Mastering Rust** - Rahul Sharma and Vesa Kaihlavirta
+
 **Mastering Monero** -
 SerHack *(a,-)*
-
-**Hands-On Data Structures and Algorithms with Rust** -
-Claus Matzinger *(s,s)*
 
 **Mastering Ethereum** Building Smart Contracts and DApps -
 Andreas Antonopoulos, Gavin Wood *(a,-)*
