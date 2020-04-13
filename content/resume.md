@@ -1,6 +1,6 @@
 +++
-date = "2020-04-13T21:00:43+11:00"
 title = "Resume of Tobin Harding: Linux Programmer"
+date: 2020-04-13T10:56:07+10:00
 +++
 
 * **5 years** software development **experience**.
