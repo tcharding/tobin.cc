@@ -1,9 +1,9 @@
 +++
-date = "2017-04-17T21:00:43+11:00"
+date = "2020-04-13T21:00:43+11:00"
 title = "Resume of Tobin Harding: Linux Programmer"
 +++
 
-* **4 years** software development **experience**.
+* **5 years** software development **experience**.
 * Commercial experience with **C, Rust, Golang**.
 * **250** mainline **Linux kernel** patches.
 * **Undergraduate** and **postgraduate** degrees in computer science.
@@ -52,7 +52,7 @@ community. Produced
 
 ## Work Experience
 
-#### May 2019 – present: **Software Engineer - Blockchain** CoBlox  
+#### June 2019 – present: **Software Engineer - Blockchain** CoBlox  
 Rust developer, working on reference implementation of the COMIT protocol. The
 COMIT protocol is aiming to solve trustless exchange of assets across
 blockchains i.e., multi-ledger atomic swap. Role involves protocol design,
