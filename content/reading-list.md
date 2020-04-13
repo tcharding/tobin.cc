@@ -9,19 +9,19 @@ in the list twice with '(second reading)' appended.
 
 # Future
 
-**An Introduction to Functional Programming Systems Using Haskell**
+**An Introduction to Functional Programming Systems Using Haskell** -
 A J T Davie
 
-**Purely Functional Data Structures**
+**Purely Functional Data Structures** -
 Chris Okasaki
  
-**Hackers Delight**
+**Hackers Delight** -
 Henry S. Warren, Jr.
 
 **Coders At Work** Reflections on the craft of programming -
 Peter Seibel
 
-**Algorithms in C** Parts 1 - 5
+**Algorithms in C** Parts 1 - 5 -
 Robert Sedgewick
 
 **Compilers** Principles, Techniques, and Tools -
@@ -57,19 +57,19 @@ Andreas M. Antonopoulos *(a,-)*
 **REST in Practice** Hypermedia and Systems Architecture -
 Jim Webber, Savas Parastatidis, Ian Robbin *(a,-)*
 
-**Clean Code**, A Handbook of Agile Software Craftsmanship -
+**Clean Code** A Handbook of Agile Software Craftsmanship -
 Robert C. Martin *(a,-)* (second reading) 
 
 **The Rust Programming Language** -
 Steve Klabnik and Carol Nichols *(a,a)*
 
-**Understanding the Linux Virtual Memory Manager**
+**Understanding the Linux Virtual Memory Manager** -
 Mel Gorman *(a,-)*
 
 **Computer Architecture** A Quantitative Approach -
 John L. Hennessy, David A. Patterson *(a,-)*
 
-**Computer Organization and Design**
+**Computer Organization and Design** -
 David A. Patterson, John L. Hennessy *(a,-)* (second reading) 
 
 **Linux Kernel Networking** Implementation and Theory -
@@ -79,9 +79,9 @@ Rami Rosen  *(a,-)*
 Enrica Perla, Massimiliano Oldani *(a,-)*
 
 **The Art of Linux Kernel Design** Illustrating the Operating System
-  Design Principle and Implementation - Lixiang Yang  (a,-)*
+Design Principle and Implementation - Lixiang Yang *(a,-)*
 
-**Mastering Regular Expressions**
+**Mastering Regular Expressions** -
 Jeffrey E.F. Friedl *(a,-)*
 
 **UNIX Filesystems** Evolution, Design, and Implementation -
@@ -90,139 +90,139 @@ Steve D. Pate *(a,n)*
 **Peopleware** Productive Projects and Teams -
 Tom DeMarco and Timothy Lister *(a,-)*
 
-**Programming Pearls** Jon Bentley *(a,s)*
+**Programming Pearls** - Jon Bentley *(a,s)*
 
-**The Mythical Man-Month**
+**The Mythical Man-Month** -
 Frederick P. Brooks, Jr. *(a,-)*
 
-**Code Complete** Steve McConnell *(a,-)*
+**Code Complete** - Steve McConnell *(a,-)*
 
 **802.11 Wireless Networks** The Definitive Guide -
 Matthew S. Gast *(m,-)*
 
-**Linux Device Drivers 3rd Edition**
-Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman *(a,-)* (read twice)
+**Linux Device Drivers 3rd Edition** -
+Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman *(a,-)* (twice read)
 
 **Refactoring** Improving the Design of Existing Code -
 Martin Fowler *(a,-)*
 
-**The Design of the Unix Operating System**
+**The Design of the Unix Operating System** -
 Maurice J. Bach *(a,-)*
 
 **The Clean Coder** A Code of Conduct for Professional Programmers -
 Robert C. Martin *(a,-)*
 
-**Modern Operating Systems**
+**Modern Operating Systems** -
 Andrew S. Tanenbaum *(m,)*
 
-**Essential Linux Device Drivers**
+**Essential Linux Device Drivers** -
 Sreekrishnan Venkateswaran *(a,-)*
 
-**Linux Kernel Development**
+**Linux Kernel Development** -
 Robert Love *(a,-)*
 
-**Open Data Structures**
+**Open Data Structures** -
 Pat Morin *(m,-)*
 
-**The Go Programming Language** *(a,m)*
+**The Go Programming Language** *(a,m)* -
 Alan A. A. Donovan, Brian W. Kernighan
 
-**Pro Git** Scott Chacon *(m,-)*
+**Pro Git** Scott Chacon *(m,-)* -
 
-**Introduction to Algorithms**
+**Introduction to Algorithms** -
 Thomas H. Cormen, Charles C. Leiserson, Ronald L. Rivest, Clifford Stein *(m,-)*
 
-**The Algorithm Design Manual**
+**The Algorithm Design Manual** -
 Steven S Skiena *(a,n)*
 
 **Apprenticeship Patterns** Guidance for the Aspiring Software Craftsman -
 David H. Hoover and Adewale Oshineye *(a,-)*
 
-**Real World Haskell**
+**Real World Haskell** -
 Bryan O'Sullivan, John Goerzen and Don Stewart *(s,s)*
 
-**Learn You a Haskell For Great Good**
+**Learn You a Haskell For Great Good** -
 Miran Lipovaca *(m,m)*
 
-**Structure and Interpretation of Computer Programs**
+**Structure and Interpretation of Computer Programs** -
 Harold Abelson, Gerald Jay Sussman, Julie Sussman *(m,m)*
 
-**The Scheme Programming Language**
+**The Scheme Programming Language** -
 R. Kent Dybvig *(m,m)*
 
-**The Little Schemer**
+**The Little Schemer** -
 Daniel P. Friedman, Matthias Felleisen *(a,a)*
 
-**ARM Assembly Language**
+**ARM Assembly Language** -
 William Hohl *(a,m)*
 
-**The Linux Programming Interface**
+**The Linux Programming Interface** -
 Michael Kerrisk *(m,m)*
 
-**Programming the World Wide Web**
+**Programming the World Wide Web** -
 Rebert W. Sebesta *(a,-)*
 
-**Applied Cryptography**
+**Applied Cryptography** -
 Bruce Schneier *(a,-)*
 
-**Python Essential Reference**
+**Python Essential Reference** -
 David M. Beazley *(m,-)*
 
-**Clean Code**, A Handbook of Agile Software Craftsmanship -
+**Clean Code** A Handbook of Agile Software Craftsmanship -
 Robert C. Martin *(a,-)*
 
-**Python the Hard Way**
+**Python the Hard Way** -
 Zed A. Shaw *(a,a)*
 
-**UNIX Network Programming**
+**UNIX Network Programming** -
 W. Richard Stevens, Bill Fenner, Andrew M. Rudoff *(a,a)*
 
-**Advanced Programming in the UNIX Environment**
+**Advanced Programming in the UNIX Environment** -
 W. Richard Stevens, Stephen A. Rago *(a,a)*
 
-**UNIX Systems Programming**
+**UNIX Systems Programming** -
 Kay A. Robbins, Steven Robbins *(a,m)*
 
-**Intermediate Perl**
+**Intermediate Perl** -
 Randal L. Schwartz, brian d foy, Tom Phoenix *(a,a)*
 
-**Learning Perl**
+**Learning Perl** -
 Randal L. Schwartz, brian d foy, Tom Phoenix *(a,a)*
 
-**Beginning Linux Programming**
+**Beginning Linux Programming** -
 Neil Matthew, Richard Stones *(a,-)*
 
-**Version Control with Git**
+**Version Control with Git** -
 Jon Loeliger, Matthew McCullough *(a,-)*
 
-**The Pragmatic Programmer**
+**The Pragmatic Programmer** -
 Andrew Hunt, David Thomas *(a,-)*
 
-**The Art of UNIX Programming**
+**The Art of UNIX Programming** -
 Eric S. Raymond *(a,-)*
 
-**Expert C Programming**, Deep C Secrets
+**Expert C Programming** Deep C Secrets -
 Peter Van Der Linden *(a,-)*
 
-**The Practice of Programming**
+**The Practice of Programming** -
 Brian W. Kernighan, Rob Pike *(a,-)*
 
-**How Linux Works**
+**How Linux Works** -
 Brian Ward *(a,-)*
 
-**Learning GNU Emacs**
+**Learning GNU Emacs** -
 Debra Cameron, James Elliott, Marc Loy, Eric Raymond, Bill Rosenblatt *(a,-)*
 
 **The Art of Computer Programming (volume 2)** Seminumerical Algorithms -
 Donald E. Knuth *(m,-)*
 
 **The Art of Computer Programming (volume 1)** Fundamental Algorithms -
-Donald E. Knuth *(a,-)*
+Donald E. Knuth *(a,-)* -
 
-**Command Line Kung Foo**
+**Command Line Kung Foo** -
 Jason Cannon *(a,-)*
 
-**Linux Shell Scripting with Bash**
+**Linux Shell Scripting with Bash** -
 Ken O. Burtch *(a,-)*
 
 **From Bash to Z Shell** Conquering the Command -
@@ -231,16 +231,16 @@ Oliver Kiddle, Jerry Peek, Peter Stephenson *(a,-)*
 **Computer Networks** A Systems Approach -
 Larry L. Peterson, Bruce S. Davie *(a,-)*
 
-**A Concise Introduction to Pure Mathematics**
+**A Concise Introduction to Pure Mathematics** -
 Martin Liebeck *(m,m)*
 
-**Computer Organization and Design**
+**Computer Organization and Design** -
 David A. Patterson, John L. Hennessy *(a,-)*
 
-**Operating System Concepts**
+**Operating System Concepts** -
 Abraham Silberschatz, Peter Baer Galvin, Greg Cagne *(a,-)*
 
-**The C Programming Language**
+**The C Programming Language** -
 Brian W. Kernighan, Dennis Ritchie *(a,a)*
 
 ----------------------
