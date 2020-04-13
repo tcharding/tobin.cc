@@ -18,6 +18,9 @@ Chris Okasaki
 **Hackers Delight** -
 Henry S. Warren, Jr.
 
+**Artificial Intelligence** A modern Approach -
+Stuart Russell and Peter Norvig
+
 **Coders At Work** Reflections on the craft of programming -
 Peter Seibel
 
@@ -26,9 +29,6 @@ Robert Sedgewick
 
 **Compilers** Principles, Techniques, and Tools -
 Aho Lam, Sethi Ullman
-
-**Artificial Intelligence** A modern Approach -
-Stuart Russell and Peter Norvig
 
 # Current
 
