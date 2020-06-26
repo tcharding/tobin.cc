@@ -18,7 +18,7 @@ Open source contributions made to the following projects, among others:
 * [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc)
  (C ).
 * [ZFS](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+zfs+) (C ).
-* [Kubernetes](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+kubernetes+) (Go) 
+* [Kubernetes](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+kubernetes+) (Go)
 * Mystereum (blockchain, Go).
 * Gonum graph library (Go).
 * OpenBazaar-Server (Python).
@@ -52,22 +52,22 @@ community. Produced
 
 ## Work Experience
 
-#### June 2019 – present: **Software Engineer - Blockchain** CoBlox  
+#### June 2019 – present: **Software Engineer - Blockchain** CoBlox
 Rust developer, working on reference implementation of the COMIT protocol. The
 COMIT protocol is aiming to solve trustless exchange of assets across
 blockchains i.e., multi-ledger atomic swap. Role involves protocol design,
 documentation, development, testing. Codebase is in Rust with end to end tests
 in Typescript. Solution uses peer to peer networking via libp2p.
 
-#### April 2017 – May 2019: **Software Developer** Crowd Coded Pty Ltd  
-Contract software developer. Role involves:  
-- Development and maintenance of userspace applications in Golang, Bash, and Python.  
-- Container networking (Golang).  
+#### April 2017 – May 2019: **Software Developer** Crowd Coded Pty Ltd
+Contract software developer. Role involves:
+- Development and maintenance of userspace applications in Golang, Bash, and Python.
+- Container networking (Golang).
 - Linux kernel development.  Memory management, device drivers, security (kernel
-hardening).  
- 
+hardening).
 
-#### January 2018 - October 2018: **Software Developer** AppOrbit Incorporated  
+
+#### January 2018 - October 2018: **Software Developer** AppOrbit Incorporated
 Contract software developer. Develop software in the field of container
 networking. Role involved debugging and developing new features. Code base
 predominantly Golang but also includes userspace C code and an out of tree
@@ -80,10 +80,10 @@ targeting AWS and Google Cloud.
 Two year self directed and funded software development apprenticeship. See below
 for details.
 
-#### January 2013 – March 2015: **Sales Manager** Black Swan Trading Company Pty Ltd  
+#### January 2013 – March 2015: **Sales Manager** Black Swan Trading Company Pty Ltd
 Sales and logistics. Managed a staff of 5.
 
-#### January 2007 – December 2012: **Support Technician** Sydney City Networks  
+#### January 2007 – December 2012: **Support Technician** Sydney City Networks
 Mac OSX support technician. Residential and small office network design,
 installation, and support.
 
@@ -127,7 +127,7 @@ University of New England, Australia (completed 2014).
 ### Bachelor of Science
 University of Sydney, Australia (completed 2008).
 
-* Awarded Bachelor of Science majoring in computer science. 
+* Awarded Bachelor of Science majoring in computer science.
 * Completed double major, software development and computer networking.
 
 ## Outside Experience
