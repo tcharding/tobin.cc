@@ -14,7 +14,10 @@ A J T Davie
 
 **Purely Functional Data Structures** -
 Chris Okasaki
- 
+
+**Design Concepts in Programming Languages** -
+Franklyn Turbak and David Giffort with Mark A. Sheldon
+
 **Hackers Delight** -
 Henry S. Warren, Jr.
 
@@ -32,11 +35,14 @@ Aho Lam, Sethi Ullman
 
 # Current
 
+**Applied Cryptography** -
+Bruce Schneier (second reading)
+
 **Agile Retrospectives** Making Good Teams Great -
 Esther Derby, Diana Larsen
 
-**Design Concepts in Programming Languages** -
-Franklyn Turbak and David Giffort with Mark A. Sheldon
+**Concrete Mathematics** A foundation for computer science -
+Graham, Knuth, Patashnik
 
 # Past
 
@@ -58,7 +64,7 @@ Andreas M. Antonopoulos *(a,-)*
 Jim Webber, Savas Parastatidis, Ian Robbin *(a,-)*
 
 **Clean Code** A Handbook of Agile Software Craftsmanship -
-Robert C. Martin *(a,-)* (second reading) 
+Robert C. Martin *(a,-)* (second reading)
 
 **The Rust Programming Language** -
 Steve Klabnik and Carol Nichols *(a,a)*
@@ -70,7 +76,7 @@ Mel Gorman *(a,-)*
 John L. Hennessy, David A. Patterson *(a,-)*
 
 **Computer Organization and Design** -
-David A. Patterson, John L. Hennessy *(a,-)* (second reading) 
+David A. Patterson, John L. Hennessy *(a,-)* (second reading)
 
 **Linux Kernel Networking** Implementation and Theory -
 Rami Rosen  *(a,-)*
@@ -246,16 +252,13 @@ Brian W. Kernighan, Dennis Ritchie *(a,a)*
 ----------------------
 
 
-#### Key:  
+#### Key:
 
-**\<Title\>** \<author\> *(x, y)*  
-x == percentage of text read  
-y == percentage of exercises completed  
-'a' - all  
-'m' - most  
-'s' - some  
-'n' - none  
-'-' - no exercises in text  
-
-
-
+**\<Title\>** \<author\> *(x, y)*
+x == percentage of text read
+y == percentage of exercises completed
+'a' - all
+'m' - most
+'s' - some
+'n' - none
+'-' - no exercises in text
