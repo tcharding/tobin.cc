@@ -18,7 +18,7 @@ company [1] that writes software in Rust that utilises the
 network layer. We were interested in seeing if we could get our
 traffic to run over the Tor network. This post explains how we did it.
 
-Upfront; there is very little that is *new* here. I just 'stood on the
+Upfront, there is very little that is *new* here. I just 'stood on the
 shoulders of giants' so to speak and wired together a few nice open
 source libraries. This took me a while to work out though, so in the
 name of saving the next guy some time and effort here goes ...
@@ -36,7 +36,7 @@ solution using these same three steps:
 3. Wire what we learn in (2) into the application we wrote in (1).
 4. As they say ... profit!
 
-## Basic networked networked application in Rust using libp2p
+## Basic networked application in Rust using libp2p
 
 In order to quickly hack up a basic application in Rust that uses
 `rust-libp2p` for the networking layer I had to look no further than
@@ -57,7 +57,7 @@ in other languages were doing this and after a bit of digging I
 settled on using the [Tor Control
 Protocol](https://gitweb.torproject.org/torspec.git/tree/control-spec.txt)
 via the very nice [torut](https://github.com/teawithsand/torut)
-library. Once again the examples directory was my friend.
+library. Once again, the examples directory was my friend.
 
 What with not knowing how Tor works and not knowing how the Tor
 Control Protocol (TorCP) works I found this pretty difficult, the
@@ -228,7 +228,7 @@ BOOM! Arbitrary data sent using TCP via the Tor network.
 
 ## rust-libp2p connection over Tor
 
-Now for the holy grail; connect our POC ping application that we wrote
+Now for the holy grail, connect our POC ping application that we wrote
 in step one using `rust-libp2p` over the Tor network.
 
 Functionally the listener side of the application does not need to
@@ -245,7 +245,7 @@ code in the [rust-lib2p](https://github.com/libp2p/rust-libp2p) repository.
 For ease of development we hard code the local address used for the
 listener, localhost on port 7777. The application accepts a
 [Multiaddr](https://docs.libp2p.io/concepts/addressing/) (a
-libp2p specified format for addresses) which is the multiadddr for the
+libp2p specified format for addresses) which is the multiaddr for the
 onion service we wish to connect to.
 
 I'm omitting the code for creating the onion service because it is
@@ -351,7 +351,7 @@ Happy Hacking -- Tobin C. Harding.
   stringify it in a format that Tor understands.
 - Try to upstream the Tor Transport to `rust-libp2p` as explained above
 
-## Thank yous
+## Thank-you's
 
 Thanks to the `torut` authors for saving me from having to interface
 with the Tor Control Protocol manually. Thanks to `rust-libp2p` for
