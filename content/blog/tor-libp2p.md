@@ -1,5 +1,5 @@
 ---
-title: "Anonymous peer to peer applicaitons in Rust (rust-libp2p over Tor)"
+title: "Anonymous peer to peer applications in Rust (rust-libp2p over Tor)"
 date: 2020-06-26T14:07:12+10:00
 draft: false
 ---
