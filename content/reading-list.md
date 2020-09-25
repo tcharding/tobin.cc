@@ -9,12 +9,6 @@ in the list twice with '(second reading)' appended.
 
 # Future
 
-**An Introduction to Functional Programming Systems Using Haskell** -
-A J T Davie
-
-**Purely Functional Data Structures** -
-Chris Okasaki
-
 **Design Concepts in Programming Languages** -
 Franklyn Turbak and David Giffort with Mark A. Sheldon
 
@@ -33,18 +27,39 @@ Robert Sedgewick
 **Compilers** Principles, Techniques, and Tools -
 Aho Lam, Sethi Ullman
 
+**Concrete Mathematics** A foundation for computer science -
+Graham, Knuth, Patashnik
+
+**Modern Cryptography and Elliptic Curves:** A Beginner’s Guid -
+Thomas R. Shemanske
+
+**Discrete and Combinatorial Mathematics** -
+Ralph P. Grimaldi
+
+**Calculus** -
+Michael Spivak
+
+**Linear Algebra And its Applications** -
+Gilbert Strang
+
 # Current
+
+**How to Solve it:** A New Aspect of Mathematical Method -
+George Polya
+
+# Past
+
+**Geometry, relativity and the fourth dimension** -
+Rudolf v. B. Rucker
+
+**Flatland:** A Romance of Many Dimensions -
+Edwin Abbott Abbott
 
 **Applied Cryptography** -
 Bruce Schneier (second reading)
 
 **Agile Retrospectives** Making Good Teams Great -
 Esther Derby, Diana Larsen
-
-**Concrete Mathematics** A foundation for computer science -
-Graham, Knuth, Patashnik
-
-# Past
 
 **Hands-On Data Structures and Algorithms with Rust** -
 Claus Matzinger *(a,a)*
