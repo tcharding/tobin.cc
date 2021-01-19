@@ -89,6 +89,30 @@ installation, and support.
 
 ## Education
 
+### Online courses
+
+* [Cryptography 1](https://www.coursera.org/learn/crypto) - completed 2021
+* [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) - completed 2020
+* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking/) - completed 2020
+
+### Graduate Diploma in Computer Science [Pass with High Distinction]
+
+University of New England, Australia (completed 2014).
+
+* Parallel and Distributed Computing.
+* Computer Architecture and Assembler.
+* C++ Programming.
+* Programming Languages for Artificial Intelligence.
+* Web and Internet Programming.
+* Information Technology Project (dentist patient management application in Objective C).
+* Graduate Diploma in Computer Science Project (UNIX shell written in C).
+
+### Bachelor of Science
+University of Sydney, Australia (completed 2008).
+
+* Awarded Bachelor of Science majoring in computer science.
+* Completed double major, software development and computer networking.
+
 ### Apprenticeship
 
 24 month software development apprenticeship.  Worked assiduously on becoming a
@@ -111,24 +135,6 @@ below ‘code written in last 12 months’ and
 See [Github](https://github.com/tcharding/self_learning) repository for code
 written during apprenticeship.  All code worked on is open source unless
 explicitly requested otherwise (i.e Project Euler, Eudyptula Challenge).
-
-### Graduate Diploma in Computer Science [Pass with High Distinction]
-
-University of New England, Australia (completed 2014).
-
-* Parallel and Distributed Computing.
-* Computer Architecture and Assembler.
-* C++ Programming.
-* Programming Languages for Artificial Intelligence.
-* Web and Internet Programming.
-* Information Technology Project (dentist patient management application in Objective C).
-* Graduate Diploma in Computer Science Project (UNIX shell written in C).
-
-### Bachelor of Science
-University of Sydney, Australia (completed 2008).
-
-* Awarded Bachelor of Science majoring in computer science.
-* Completed double major, software development and computer networking.
 
 ## Outside Experience
 
