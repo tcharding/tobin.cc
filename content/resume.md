@@ -15,15 +15,22 @@ date = 2020-04-13T10:56:07+10:00
 
 Open source contributions made to the following projects, among others:
 
+* [bdk](https://github.com/bitcoindevkit/bdk) (Rust).
+* [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) (Rust).
+* [rust-libp2p](https://github.com/libp2p/rust-libp2p) (Rust).
 * [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc)
  (C ).
 * [ZFS](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+zfs+) (C ).
-* [Kubernetes](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+kubernetes+) (Go)
-* Mystereum (blockchain, Go).
+* [Kubernetes](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+kubernetes+) (Go).
 * Gonum graph library (Go).
 * OpenBazaar-Server (Python).
 * Guile Scheme (Scheme, C).
 * Binutils, GNU Assembler (Documentation).
+
+Open source contributions currently focus on Bitcoin and Rust. Author and
+maintainer of a [libp2p
+transport](https://github.com/comit-network/rust-libp2p-tokio-socks5) for
+routing libp2p traffic over Tor.
 
 Linux kernel contributor since May 2016. Author and maintainer of intree kernel
 Perl script scripts/leaking_addresses.pl. Responsible for hashing printk
@@ -40,50 +47,48 @@ contributor to the project. Most patches were unit testing and code
 refactoring. Some work on the command line interface and interoperability
 between operating systems.
 
-While studying data structures and algorithms contributed code, and design test
-implementation, to the Gonum graph library written in Golang. Utilized graph
-library as reference while implementing solutions to graph problems on
-HackerRank.
-
-Contributed to the Free Software Foundation Guile project. Interacted with Guile
-community via public mailing list. Iterated multiple revisions in order to
-assimilate a personal fix into a patch that was acceptable by the
-community. Produced
-
 ## Work Experience
 
-#### June 2019 – present: **Software Engineer - Blockchain** CoBlox
-Rust developer, working on reference implementation of the COMIT protocol. The
+#### November 2020 - present: **Senior Blockchain Securiy Engineer** Crypto.com
+
+Rust developer, working on wallet software that runs in the cloud targeting
+institutional customers. Uses a multi-party signature scheme.
+
+#### June 2019 – October 2020: **Software Engineer - Blockchain** CoBlox
+
+Rust developer, worked on reference implementation of the COMIT protocol. The
 COMIT protocol is aiming to solve trustless exchange of assets across
-blockchains i.e., multi-ledger atomic swap. Role involves protocol design,
-documentation, development, testing. Codebase is in Rust with end to end tests
+blockchains i.e., multi-ledger atomic swap. Role involved protocol design,
+documentation, development, testing. Codebase in Rust with end to end tests
 in Typescript. Solution uses peer to peer networking via libp2p.
 
 #### April 2017 – May 2019: **Software Developer** Crowd Coded Pty Ltd
-Contract software developer. Role involves:
+
+Contract software developer. Role involved:
 - Development and maintenance of userspace applications in Golang, Bash, and Python.
 - Container networking (Golang).
 - Linux kernel development.  Memory management, device drivers, security (kernel
 hardening).
 
-
 #### January 2018 - October 2018: **Software Developer** AppOrbit Incorporated
+
 Contract software developer. Develop software in the field of container
 networking. Role involved debugging and developing new features. Code base
 predominantly Golang but also includes userspace C code and an out of tree
 kernel module. Testing done in Python, Bash, C, and Golang. Responsible for
-writing and maintaining end to end tests (written in Python and shell) utilising
-docker in docker.  Assisted in building release docker images using Packer
-targeting AWS and Google Cloud.
+writing and maintaining end to end tests (written in Python and shell).
 
 #### April 2015 – March 2017: **Software Development Apprenticeship**
+
 Two year self directed and funded software development apprenticeship. See below
 for details.
 
 #### January 2013 – March 2015: **Sales Manager** Black Swan Trading Company Pty Ltd
+
 Sales and logistics. Managed a staff of 5.
 
 #### January 2007 – December 2012: **Support Technician** Sydney City Networks
+
 Mac OSX support technician. Residential and small office network design,
 installation, and support.
 
@@ -108,6 +113,7 @@ University of New England, Australia (completed 2014).
 * Graduate Diploma in Computer Science Project (UNIX shell written in C).
 
 ### Bachelor of Science
+
 University of Sydney, Australia (completed 2008).
 
 * Awarded Bachelor of Science majoring in computer science.
