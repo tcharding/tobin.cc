@@ -3,11 +3,11 @@ title = "Resume of Tobin Harding: Linux Programmer"
 date = 2020-04-13T10:56:07+10:00
 +++
 
-* **5 years** software development **experience**.
+* **6 years** software development **experience**.
 * Commercial experience with **C, Rust, Golang**.
 * **250** mainline **Linux kernel** patches.
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **12 years** experience using **Linux**.
+* **17 years** experience using **Linux**.
 * Founder of Central Coast Linux Users Group.
 
 
