@@ -32,20 +32,15 @@ maintainer of a [libp2p
 transport](https://github.com/comit-network/rust-libp2p-tokio-socks5) for
 routing libp2p traffic over Tor.
 
-Linux kernel contributor since May 2016. Author and maintainer of intree kernel
-Perl script scripts/leaking_addresses.pl. Responsible for hashing printk
-specifier %p, landed in v3.15. Involved in the removal of Variable Length Arrays
-from the kernel tree, enabling `make -Wvla`. Worked on layer 2 networking
-code. Focus on the KS7010 Wi-Fi driver. PowerPC contributions; while resolving
-PowerPC kernel issues contributed documentation patches to the GNU Assembler, as
-well as assembly code. Various other contributions to: device drivers (staging),
-networking (including wireless), Kernel Self Protection Project, storage, and
-memory management. 250+ patches merged into the mainline.
+Linux kernel contributor from May 2016 to June 2019. Author and maintainer of
+intree kernel Perl script `scripts/leaking_addresses.pl`. Involved in kernel
+hardening, documentation, and memory management. 250+ patches merged into the
+mainline. 
 
-Two months focused work on OpenBazaar Server code in Python. First non-company
-contributor to the project. Most patches were unit testing and code
-refactoring. Some work on the command line interface and interoperability
-between operating systems.
+Two months full time work on OpenBazaar Server code in Python. First non-company
+contributor to the project. Most patches were unit testing and code refactoring.
+Some work on the command line interface and interoperability between operating
+systems.
 
 ## Work Experience
 
