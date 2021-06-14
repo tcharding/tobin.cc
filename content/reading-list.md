@@ -9,13 +9,9 @@ in the list twice with '(second reading)' appended.
 
 # Future
 
-**Design Concepts in Programming Languages** - Franklyn Turbak and David Giffort with Mark A. Sheldon
-
 **Hackers Delight** - Henry S. Warren, Jr.
 
 **Artificial Intelligence** A modern Approach - Stuart Russell and Peter Norvig
-
-**Coders At Work** Reflections on the craft of programming - Peter Seibel
 
 **Algorithms in C** Parts 1-5 - Robert Sedgewick
 
@@ -31,15 +27,19 @@ in the list twice with '(second reading)' appended.
 
 **Linear Algebra And its Applications** - Gilbert Strang
 
-**An Introduction to Mathematical Cryptography** - Joffrey Hoffstein, Jill Pipher, Joseph H. Silverman
-
 **A Computational Introduction to Number Theory and Algebra** - Victor Shoup
 
 # Current
 
-**Introduction to Modern Cryptography** - Jonathan Katz, Yehuda Lindell
+**An Introduction to Mathematical Cryptography** - Joffrey Hoffstein, Jill Pipher, Joseph H. Silverman
 
 # Past
+
+**Lecture Nodes Cryptographic Protocols** - Berry Shchoenmakers *(a,n)*
+
+**Introduction to Modern Cryptography** - Jonathan Katz, Yehuda Lindell *(a,n)*
+
+**Coders At Work** Reflections on the craft of programming - Peter Seibel *(m,-)*
 
 **How to Solve it:** A New Aspect of Mathematical Method - George Polya *(a,s)*
 
