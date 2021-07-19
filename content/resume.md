@@ -91,9 +91,15 @@ installation, and support.
 
 ### Online courses
 
+* [Delivery Problem](https://www.coursera.org/learn/delivery-problem) - completed 2021
+* [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) - completed 2021
+* [Introduction to Graph Theory](https://www.coursera.org/learn/graphs) - completed 2021
+* [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics) - completed 2021
+* [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) - completed 2021
 * [Cryptography 1](https://www.coursera.org/learn/crypto) - completed 2021
 * [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) - completed 2020
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking/) - completed 2020
+
 
 ### Graduate Diploma in Computer Science [Pass with High Distinction]
 
