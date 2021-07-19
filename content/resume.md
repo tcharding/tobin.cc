@@ -1,6 +1,6 @@
 +++
 title = "Resume of Tobin Harding: Linux Programmer"
-date = 2020-04-13T10:56:07+10:00
+date = "2021-07-20T21:59:47+11:00"
 +++
 
 * **6 years** software development **experience**.
