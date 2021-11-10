@@ -33,6 +33,8 @@ in the list twice with '(second reading)' appended.
 
 **An Introduction to Mathematical Cryptography** - Joffrey Hoffstein, Jill Pipher, Joseph H. Silverman
 
+**Hands-On Data Structures and Algorithms with Rust** - Claus Matzinger (second reading) *(a,a)*
+
 # Past
 
 **Lecture Nodes Cryptographic Protocols** - Berry Shchoenmakers *(a,n)*
