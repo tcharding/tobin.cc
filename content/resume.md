@@ -44,7 +44,7 @@ systems.
 
 ## Work Experience
 
-#### November 2020 - present: **Senior Blockchain Securiy Engineer** Crypto.com
+#### November 2020 - present: **Senior Blockchain Security Engineer** Crypto.com
 
 Rust developer, working on wallet software that runs in the cloud targeting
 institutional customers. Uses a multi-party signature scheme.
