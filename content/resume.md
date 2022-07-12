@@ -3,20 +3,24 @@ title = "Resume of Tobin Harding: Linux Programmer"
 date = "2021-07-20T21:59:47+11:00"
 +++
 
-* **6 years** software development **experience**.
-* Commercial experience with **C, Rust, Golang**.
+* **7 years** professional software development **experience**.
+* Experience with **Rust, Golang, C, Python**.
 * **250** mainline **Linux kernel** patches.
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **17 years** experience using **Linux**.
+* **18 years** experience using **Linux**.
 * Founder of Central Coast Linux Users Group.
-
 
 ## Open Source Experience
 
+Currently working full time as a maintainer of [rust-bitcoin](https://github.com/rust-bitcoin) under
+an Open Source grant.
+
 Open source contributions made to the following projects, among others:
 
-* [bdk](https://github.com/bitcoindevkit/bdk) (Rust).
+* [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript) (Rust).
+* [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) (Rust).
 * [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) (Rust).
+* [bdk](https://github.com/bitcoindevkit/bdk) (Rust).
 * [rust-libp2p](https://github.com/libp2p/rust-libp2p) (Rust).
 * [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc)
  (C ).
@@ -27,9 +31,7 @@ Open source contributions made to the following projects, among others:
 * Guile Scheme (Scheme, C).
 * Binutils, GNU Assembler (Documentation).
 
-Open source contributions currently focus on Bitcoin and Rust. Author and
-maintainer of a [libp2p
-transport](https://github.com/comit-network/rust-libp2p-tokio-socks5) for
+Author of a [libp2p transport](https://github.com/comit-network/rust-libp2p-tokio-socks5) for
 routing libp2p traffic over Tor.
 
 Linux kernel contributor from May 2016 to June 2019. Author and maintainer of
@@ -44,7 +46,13 @@ systems.
 
 ## Work Experience
 
-#### November 2020 - present: **Senior Blockchain Security Engineer** Crypto.com
+#### January 2022 - Present: **Open source maintainer** rust-bitcoin
+
+Open source grant to work as a maintainer of the https://github.com/rust-bitcoin projects.
+
+https://blog.kraken.com/post/12873/kraken-funds-full-time-bitcoin-rust-maintainer/
+
+#### November 2020 - January 2022: **Senior Blockchain Security Engineer** Crypto.com
 
 Rust developer, working on wallet software that runs in the cloud targeting
 institutional customers. Uses a multi-party signature scheme.
