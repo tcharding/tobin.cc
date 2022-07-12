@@ -13,7 +13,7 @@ in the list twice with '(second reading)' appended.
 
 **Artificial Intelligence** A modern Approach - Stuart Russell and Peter Norvig
 
-**Algorithms in C** Parts 1-5 - Robert Sedgewick
+**Algorithms in C** Part 5 - Robert Sedgewick
 
 **Compilers** Principles, Techniques, and Tools - Aho Lam, Sethi Ullman
 
@@ -29,15 +29,17 @@ in the list twice with '(second reading)' appended.
 
 **A Computational Introduction to Number Theory and Algebra** - Victor Shoup
 
-# Current
-
 **An Introduction to Mathematical Cryptography** - Joffrey Hoffstein, Jill Pipher, Joseph H. Silverman
 
-**Hands-On Data Structures and Algorithms with Rust** - Claus Matzinger (second reading) *(a,a)*
+# Current
+
+**Algorithms in C (Third edition) Parts 1-4** - Robert Sedgewick
 
 # Past
 
-**Lecture Nodes Cryptographic Protocols** - Berry Shchoenmakers *(a,n)*
+**Hands-On Data Structures and Algorithms with Rust** - Claus Matzinger (second reading) *(a,a)*
+
+**Lecture Notes: Cryptographic Protocols** - Berry Shchoenmakers *(a,n)*
 
 **Introduction to Modern Cryptography** - Jonathan Katz, Yehuda Lindell *(a,n)*
 
@@ -196,11 +198,10 @@ in the list twice with '(second reading)' appended.
 
 #### Key:
 
-**\<Title\>** \<author\> *(x, y)*
-x == percentage of text read
-y == percentage of exercises completed
-'a' - all
-'m' - most
-'s' - some
-'n' - none
-'-' - no exercises in text
+**\<Title\>** - \<author\> *(\<text read\>, \<exercises completed\>)*  
+
+- a : all  
+- m : most  
+- s : some  
+- n : none  
+- '-' - no exercises in text  
