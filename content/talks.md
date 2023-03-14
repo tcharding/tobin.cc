@@ -3,6 +3,10 @@ date = "2022-09-15T10:07:59+10:00"
 title = "Presentations"
 +++
 
+* **Advanced Testing in Rust**
+([slides / git repo](https://github.com/tcharding/talks/tree/master/advanced-testing-in-rust))  
+  15th March 2023 - Everything Open conference Melbourne  
+
 * **Conditional Compilation in Rust**
 ([slides](https://github.com/tcharding/talks/tree/master/conditional-compilation-in-rust))  
   14th September 2022 - RustAU meetup  
