@@ -1,7 +1,24 @@
 +++
-date = "2022-09-15T10:07:59+10:00"
+date = "2023-10-17T10:07:59+10:00"
 title = "Presentations"
 +++
+
+* **Learning Bitcoin using Sparrow Wallet**  
+  October 2023 - Central Coast Bitcoin Meetup  
+
+* **Programming Bitcoin in Rust**
+([git repo](https://github.com/tcharding/workshop))  
+  September 2023 - Popup workshop in Nashville (Bitcoin Park)  
+
+* **Programming Bitcoin in Rust**
+([git repo](https://github.com/tcharding/workshop))  
+  September 2023 - TABConf  
+
+* **BTC Prague 2023 - rust-bitcoin workshop**
+([git repo](https://github.com/tcharding/workshop/tree/master/pico-bitcoin-wallet))
+
+* **What do you open source devs do all day**  
+  25th March 2023 - Bitcoin Bush Bash  
 
 * **Advanced Testing in Rust**
 ([slides / git repo](https://github.com/tcharding/talks/tree/master/advanced-testing-in-rust))  
