@@ -1,13 +1,14 @@
 +++
 title = "Resume of Tobin Harding: Linux Programmer"
-date = "2021-07-20T21:59:47+11:00"
+date = "2023-10-20T21:59:47+11:00"
 +++
 
-* **7 years** professional software development **experience**.
-* Experience with **Rust, Golang, C, Python**.
+* **9 years** professional software development **experience**.
+* **Rust** language expert.
+* Proficient in **C, Golang, Python**.
 * **250** mainline **Linux kernel** patches.
 * **Undergraduate** and **postgraduate** degrees in computer science.
-* **18 years** experience using **Linux**.
+* **20+ years** experience using **Linux**.
 * Founder of Central Coast Linux Users Group.
 
 ## Open Source Experience
@@ -20,10 +21,8 @@ Open source contributions made to the following projects, among others:
 * [rust-miniscript](https://github.com/rust-bitcoin/rust-miniscript) (Rust).
 * [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) (Rust).
 * [rust-secp256k1](https://github.com/rust-bitcoin/rust-secp256k1) (Rust).
-* [bdk](https://github.com/bitcoindevkit/bdk) (Rust).
-* [rust-libp2p](https://github.com/libp2p/rust-libp2p) (Rust).
-* [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc)
- (C ).
+* [rust-bech32](https://github.com/rust-bitcoin/rust-bech32) (Rust).
+* [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=me%40tobin.cc) (C ).
 * [ZFS](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+zfs+) (C ).
 * [Kubernetes](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Atcharding+kubernetes+) (Go).
 * Gonum graph library (Go).
@@ -34,23 +33,23 @@ Open source contributions made to the following projects, among others:
 Author of a [libp2p transport](https://github.com/comit-network/rust-libp2p-tokio-socks5) for
 routing libp2p traffic over Tor.
 
-Linux kernel contributor from May 2016 to June 2019. Author and maintainer of
-intree kernel Perl script `scripts/leaking_addresses.pl`. Involved in kernel
-hardening, documentation, and memory management. 250+ patches merged into the
-mainline. 
-
-Two months full time work on OpenBazaar Server code in Python. First non-company
-contributor to the project. Most patches were unit testing and code refactoring.
-Some work on the command line interface and interoperability between operating
-systems.
+Linux kernel contributor from May 2016 to June 2019. Author of intree kernel Perl script
+`scripts/leaking_addresses.pl`. Involved in kernel hardening, documentation, and memory management.
+250+ patches merged into the mainline.
 
 ## Work Experience
 
-#### January 2022 - Present: **Open source maintainer** rust-bitcoin
+#### January 2023 - Present: **Open source maintainer** rust-bitcoin
+
+Continue work as `rust-bitcoin` maintainer, funded by [Riot Platforms](https://www.riotplatforms.com/).
+
+- https://www.riotplatforms.com/news-media/press-releases/detail/154/riot-announces-may-2023-production-and-operations-updates
+
+#### January 2022 - December 2020: **Open source maintainer** rust-bitcoin
 
 Open source grant to work as a maintainer of the https://github.com/rust-bitcoin projects.
 
-https://blog.kraken.com/post/12873/kraken-funds-full-time-bitcoin-rust-maintainer/
+- https://blog.kraken.com/post/12873/kraken-funds-full-time-bitcoin-rust-maintainer/
 
 #### November 2020 - January 2022: **Senior Blockchain Security Engineer** Crypto.com
 
