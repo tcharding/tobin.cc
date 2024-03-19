@@ -13,8 +13,8 @@ date = "2023-10-20T21:59:47+11:00"
 
 ## Open Source Experience
 
-Currently working full time as a maintainer of [rust-bitcoin](https://github.com/rust-bitcoin) under
-an Open Source grant.
+Currently working full time as a maintainer of [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+under an Open Source grant.
 
 Open source contributions made to the following projects, among others:
 
@@ -45,7 +45,7 @@ Continue work as `rust-bitcoin` maintainer, funded by [Riot Platforms](https://w
 
 - https://www.riotplatforms.com/news-media/press-releases/detail/154/riot-announces-may-2023-production-and-operations-updates
 
-#### January 2022 - December 2020: **Open source maintainer** rust-bitcoin
+#### January 2022 - December 2022: **Open source maintainer** rust-bitcoin
 
 Open source grant to work as a maintainer of the https://github.com/rust-bitcoin projects.
 
@@ -76,14 +76,14 @@ hardening).
 
 Contract software developer. Develop software in the field of container
 networking. Role involved debugging and developing new features. Code base
-predominantly Golang but also includes userspace C code and an out of tree
+predominantly Golang but also included userspace C code and an out of tree
 kernel module. Testing done in Python, Bash, C, and Golang. Responsible for
 writing and maintaining end to end tests (written in Python and shell).
 
 #### April 2015 – March 2017: **Software Development Apprenticeship**
 
-Two year self directed and funded software development apprenticeship. See below
-for details.
+Two year self directed and self funded software development apprenticeship. See
+below for details.
 
 #### January 2013 – March 2015: **Sales Manager** Black Swan Trading Company Pty Ltd
 
