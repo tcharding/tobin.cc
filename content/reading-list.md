@@ -3,37 +3,14 @@ date = "2016-10-15T14:17:43+11:00"
 title = "Reading List"
 +++
 
-Past, current, and future. List is in approximate reverse chronological order.
+Current, past, and future. List is in approximate reverse chronological order.
 Some texts are good enough to deserve a second reading, if so the text appears
 in the list twice with '(second reading)' appended.
 
-# Future
-
-**Hackers Delight** - Henry S. Warren, Jr.
-
-**Artificial Intelligence** A modern Approach - Stuart Russell and Peter Norvig
-
-**Algorithms in C** Part 5 - Robert Sedgewick
-
-**Compilers** Principles, Techniques, and Tools - Aho Lam, Sethi Ullman
-
-**Concrete Mathematics** A foundation for computer science - Graham, Knuth, Patashnik
-
-**Modern Cryptography and Elliptic Curves:** A Beginner’s Guid - Thomas R. Shemanske
-
-**Discrete and Combinatorial Mathematics** - Ralph P. Grimaldi
-
-**Calculus** - Michael Spivak
-
-**Linear Algebra And its Applications** - Gilbert Strang
-
-**A Computational Introduction to Number Theory and Algebra** - Victor Shoup
-
-**An Introduction to Mathematical Cryptography** - Joffrey Hoffstein, Jill Pipher, Joseph H. Silverman
-
 # Current
 
-**Algorithms in C (Third edition) Parts 1-4** - Robert Sedgewick
+Took the year (2023) off reading computer books to read The Economist,
+this year I am reading non-computer related books.
 
 # Past
 
@@ -192,6 +169,38 @@ in the list twice with '(second reading)' appended.
 **Operating System Concepts** - Abraham Silberschatz, Peter Baer Galvin, Greg Cagne *(a,-)*
 
 **The C Programming Language** - Brian W. Kernighan, Dennis Ritchie *(a,a)*
+
+# Future (maybes)
+
+## Random computer books (potentially interesting topics)
+
+**Artificial Intelligence** A modern Approach - Stuart Russell and Peter Norvig
+
+**Compilers** Principles, Techniques, and Tools - Aho Lam, Sethi Ullman
+
+## Math books (probably won't get to all these)
+
+**Concrete Mathematics** A foundation for computer science - Graham, Knuth, Patashnik
+
+**Modern Cryptography and Elliptic Curves:** A Beginner’s Guid - Thomas R. Shemanske
+
+**Discrete and Combinatorial Mathematics** - Ralph P. Grimaldi
+
+**Calculus** - Michael Spivak
+
+**Linear Algebra And its Applications** - Gilbert Strang
+
+**A Computational Introduction to Number Theory and Algebra** - Victor Shoup
+
+**An Introduction to Mathematical Cryptography** - Joffrey Hoffstein, Jill Pipher, Joseph H. Silverman
+
+## Algorithms
+
+**The Art of Computer Programming (4 volumes)** - Donald E. Knuth
+
+**Algorithms in C (5 parts)** - Robert Sedgewick
+
+**Hackers Delight** - Henry S. Warren, Jr.
 
 ----------------------
 
