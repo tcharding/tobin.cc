@@ -39,7 +39,13 @@ Linux kernel contributor from May 2016 to June 2019. Author of intree kernel Per
 
 ## Work Experience
 
-#### January 2023 - Present: **Open source maintainer** rust-bitcoin
+#### January 2024 - Present: **Open source maintainer** rust-bitcoin
+
+Continue work as `rust-bitcoin` maintainer, funded by [OpenSats](https://www.opensats.org/).
+
+- https://opensats.org/blog/tobin-harding-receives-lts-grant-for-rust-bitcoin
+
+#### January 2023 - 2024: **Open source maintainer** rust-bitcoin
 
 Continue work as `rust-bitcoin` maintainer, funded by [Riot Platforms](https://www.riotplatforms.com/).
 
