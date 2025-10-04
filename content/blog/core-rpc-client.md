@@ -8,7 +8,7 @@ from Bitcoin Core then you may want to use the JSON RPC API that Core
 provides. So far so good. You might then wonder to yourself, "seems
 pretty easy, surely someone has written a crate (Rust library) already
 that does that, let me just grab it". This post is about why that is
-a bad idea. 
+a bad idea.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ high level things that you may want to consider:
 - What RPC methods do we need to call?
 - When calling those methods what, if any, optional arguments do we
   need to use?
-  
+
 All three of these can be answered by instead answering one or both of
 these question:
 
@@ -86,7 +86,7 @@ is the data returned by Bitcoin Core version 28 for the
 only use rust standard types e.g., `String`, `u64` etc. If you want
 the fields strongly typed using `rust-bitcoin` types then we provide a
 version non-specific counterpart in the `model` module e.g.,
-`model::SomeCoreMethod`. 
+`model::SomeCoreMethod`.
 
 WTF, you idiot, why did you do that? Just deserialize the JSON into
 `rust-bitcoin` types when getting back from Core?
